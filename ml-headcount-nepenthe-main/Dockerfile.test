@@ -1,0 +1,35 @@
+FROM ghcr.io/astral-sh/uv:debian
+
+# Create a non-root user with sudo permissions (UID 1000, using existing GID 100)
+RUN useradd -u 1000 -g 100 -s /bin/bash testuser && \
+    echo 'testuser ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
+
+# Create and set proper permissions for the user's home directory and cache
+RUN mkdir -p /home/testuser/.cache/uv && \
+    chown -R testuser:100 /home/testuser 
+
+RUN mkdir -p /package && chown -R testuser:100 /package
+
+# Create package directory and copy dependency files
+COPY uv.lock .python-version pyproject.toml README.md /package/
+RUN mkdir -p /package/src/ml_headcount && \
+    touch /package/src/ml_headcount/__init__.py
+
+# Switch to the non-root user
+USER testuser
+
+# Set working directory to package and create virtual environment
+WORKDIR /package
+RUN uv sync
+
+# Add pip and download spaCy model
+RUN uv add pip
+RUN uv run python -m spacy download en_core_web_sm
+
+# Set environment variable to use the pre-built virtual environment
+ENV UV_PROJECT_ENVIRONMENT=/package/.venv
+
+WORKDIR /workspace
+
+# Set the default command
+CMD ["/bin/bash"]

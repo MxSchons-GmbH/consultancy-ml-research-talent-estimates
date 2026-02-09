@@ -1,0 +1,83 @@
+graph TD
+    %% Color definitions
+    classDef csvFile fill:#e57373,stroke:#c62828,stroke-width:2px,color:white
+    classDef jsonFile fill:#9c27b0,stroke:#4a148c,stroke-width:2px,color:white
+    classDef function fill:#2196f3,stroke:#0d47a1,stroke-width:2px,color:white
+    classDef pythonObj fill:#4caf50,stroke:#1b5e20,stroke-width:2px,color:white
+    classDef plot fill:#795548,stroke:#3e2723,stroke-width:2px,color:white
+    
+    %% External Input Files
+    LinkedInJSON["LinkedIn JSON Export<br/>85k profiles.jsonl"]:::jsonFile
+    CVData["CV Data<br/>cv_data.tsv"]:::csvFile
+    ValidationCVs["Validation CVs<br/>validation_cvs.xlsx"]:::csvFile
+    AffiliationData["Affiliation Data<br/>affiliation_counts.csv"]:::csvFile
+    CompanyDB["Company Database<br/>company_database.tsv"]:::csvFile
+    
+    subgraph "LinkedIn Processing"
+        LinkedInJSON --> convert_linkedin_json_to_csv["convert_linkedin_json_to_csv<br/>(data_ingestion/linkedin_conversion.py)"]:::function
+        LinkedInJSON --> extract_linkedin_titles_to_csv["extract_linkedin_titles_to_csv<br/>(data_ingestion/linkedin_titles.py)"]:::function
+        convert_linkedin_json_to_csv --> LinkedInCSV["LinkedIn Profiles CSV<br/>linkedin_profiles.csv"]:::csvFile
+        extract_linkedin_titles_to_csv --> AllTitlesCSV["All Titles CSV<br/>all_titles.csv"]:::csvFile
+        extract_linkedin_titles_to_csv --> LastTitlesCSV["Last Titles CSV<br/>last_titles.csv"]:::csvFile
+    end
+    
+    subgraph "CV Analysis & Validation"
+        CVData --> extract_cv_keyword_frequencies["extract_cv_keyword_frequencies<br/>(data_ingestion/cv_keywords.py)"]:::function
+        CVData --> run_keybert_keyword_extraction["run_keybert_keyword_extraction<br/>(text_analysis/keybert_extraction.py)"]:::function
+        ValidationCVs --> process_validation_cvs["process_validation_cvs<br/>(pipeline.py)"]:::function
+        
+        extract_cv_keyword_frequencies --> KeywordFreqCSV["CV Keyword Frequencies<br/>keyword_frequencies.csv"]:::csvFile
+        
+        run_keybert_keyword_extraction --> ClusteringResults["Clustering Results<br/>cv_keyword_clusters.json"]:::jsonFile
+        ClusteringResults --> DiscriminativeKeywords["Discriminative Keywords<br/>cv_discriminative_keywords.csv"]:::csvFile
+        ClusteringResults --> Keywords["Keywords<br/>keywords data"]:::pythonObj
+        ClusteringResults --> Clusters["Clusters<br/>cluster data"]:::pythonObj
+        ClusteringResults --> EmbeddingViz["Embedding Visualization<br/>embedding_viz data"]:::pythonObj
+        
+        DiscriminativeKeywords --> split_keywords_into_strict_broad_lists["split_keywords_into_strict_broad_lists<br/>(text_analysis/keyword_filtering.py)"]:::function
+        split_keywords_into_strict_broad_lists --> KeywordLists["Keywords Lists<br/>strict_yes, strict_no, broad_yes, broad_no<br/>keywords.json"]:::jsonFile
+        
+        process_validation_cvs --> ValidationProc["Processed Validation CVs<br/>validation_cvs_processed.csv"]:::csvFile
+        ValidationProc --> score_validation_cvs_with_filters["score_validation_cvs_with_filters<br/>(text_analysis/validation_scoring.py)"]:::function
+        KeywordLists --> score_validation_cvs_with_filters
+        score_validation_cvs_with_filters --> ScoredCVs["Validation CVs Scored<br/>DataFrame with 8 scoring methods<br/>validation_cvs_scored.csv"]:::csvFile
+    end
+    
+    subgraph "Affiliation Processing"
+        AffiliationData --> filter_academic_affiliations["filter_academic_affiliations<br/>(data_cleaning/academic_filtering.py)"]:::function
+        filter_academic_affiliations --> NonAcademicAff["Non-Academic Affiliations<br/>cleaned_affiliations.csv"]:::csvFile
+        NonAcademicAff --> clean_and_split_csv["clean_and_split_csv<br/>(data_cleaning/affiliation_cleaning.py)"]:::function
+        clean_and_split_csv --> CleanedAff["Cleaned Split Affiliations<br/>cleaned_split_affiliations.csv"]:::csvFile
+    end
+    
+    subgraph "Organization Analysis<br />(Main Pipeline)"
+        CompanyDB --> process_headquarters_tsv["process_headquarters_tsv<br/>(geographic/headquarters_mapping.py)"]:::function
+        process_headquarters_tsv --> CompanySubregions["Company DB with Subregions<br/>company_database_with_subregions.tsv"]:::csvFile
+        CompanySubregions --> clean_llm_estimates_outliers["clean_llm_estimates_outliers<br/>(data_cleaning/outlier_cleaning.py)"]:::function
+        clean_llm_estimates_outliers --> CleanedLLM["Cleaned LLM Estimates<br/>company_database_cleaned_llm_estimates.tsv"]:::csvFile
+        
+        CleanedLLM --> debias_ml_headcount_estimates["debias_ml_headcount_estimates<br/>(statistical/debiasing.py)"]:::function
+        debias_ml_headcount_estimates --> DebiasedOrgs["All Organizations Debiased<br/>DataFrame with consensus estimates<br/>all_orgs_debiased.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgML["Max headcount & population<br/>orgs_ML.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgTalent["Talent-dense organizations<br/>orgs_talent_dense.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgStage5["Stage 5 work trial<br/>orgs_stage5_work_trial.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgStage5Rec["Recommended stage 5<br/>orgs_stage5_work_trial_recommended.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgEnterprise["Enterprise organizations<br/>orgs_enterprise_500ml_0p5pct.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgMidscale["Mid-scale organizations<br/>orgs_midscale_50ml_1pct.tsv"]:::csvFile
+        debias_ml_headcount_estimates --> OrgBoutique["Boutique organizations<br/>orgs_boutique_10ml_5pct.tsv"]:::csvFile
+        
+        DebiasedOrgs --> generate_geographic_analysis_plots["generate_geographic_analysis_plots<br/>(visualization/geographic_plots.py)"]:::function
+        generate_geographic_analysis_plots --> GeoPlots["Geographic Analysis Plots<br/>HTML files with interactive maps<br/>analysis_outputs/*.html"]:::plot
+        
+        DebiasedOrgs --> create_combined_summary_statistics["create_combined_summary_statistics<br/>(reporting/summary_statistics.py)"]:::function
+        create_combined_summary_statistics --> SummaryCSV["Combined Summary<br/>Summary statistics by category<br/>combined_summary.csv"]:::csvFile
+        
+        DebiasedOrgs --> build_organizations_list_csv["build_organizations_list_csv<br/>(reporting/organizations_list.py)"]:::function
+        build_organizations_list_csv --> OrgsListCSV["Organizations List<br/>Complete organization summary<br/>organizations_list.csv"]:::csvFile
+        
+        DebiasedOrgs --> create_ml_talent_landscape_plot["create_ml_talent_landscape_plot<br/>(visualization/talent_landscape.py)"]:::function
+        create_ml_talent_landscape_plot --> LandscapePlot["Talent Landscape Plot<br/>Interactive scatter visualization"]:::plot
+        
+        DebiasedOrgs --> plot_debiased_ml_estimates_comparison["plot_debiased_ml_estimates_comparison<br/>(visualization/estimate_comparison.py)"]:::function
+        plot_debiased_ml_estimates_comparison --> ComparisonPlot["Estimate Comparison Plot<br/>Method comparison visualization"]:::plot
+    end

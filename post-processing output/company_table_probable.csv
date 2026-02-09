@@ -1,0 +1,82 @@
+Company Name,Founded,Country,Total Staff (LinkedIn),"Individual Estimates [broad+strict, strict, broad, claude, gpt5, gemini]",ML Talent q50 (q10 - q90),ML % of Total,Category
+Tata Consultancy Services,1968,India,640 000,"[305, 5400, 3200, 0, 0, 0]",87 (12 - 322) *,0.01% (0.00% - 0.05%),Probable
+Accenture,1989,Ireland,550 000,"[186, 3400, 3500, 0, 0, 0]",76 (13 - 280) *,0.01% (0.00% - 0.05%),Probable
+Yandex,1997,Russia,9 900,"[67, 521, 232, 142, 291, 528]",60 (41 - 90),0.61% (0.41% - 0.91%),Probable
+Deloitte,1845,United Kingdom,430 000,"[171, 2200, 3700, 0, 0, 0]",54 (8 - 211) *,0.01% (0.00% - 0.05%),Probable
+Cohere,2019,Canada,831,"[45, 75, 187, 85, 112, 136]",45 (26 - 76),5.42% (3.13% - 9.15%),Probable
+Scale AI,2016,United States,5 800,"[68, 221, 594, 82, 179, 326]",45 (29 - 75),0.78% (0.50% - 1.29%),Probable
+IBM,1911,United States,290 000,"[443, 2300, 3900, -, -, -]",42 (5 - 143) *,0.01% (0.00% - 0.05%),Probable
+Capgemini,1967,France,260 000,"[103, 2100, 1500, -, -, -]",38 (5 - 131) *,0.01% (0.00% - 0.05%),Probable
+Cerebras Systems,2016,United States,726,"[22, 71, 142, 69, 76, 142]",36 (21 - 61),4.96% (2.89% - 8.40%),Probable
+Quantiphi,2013,United States,3 800,"[23, 195, 279, 17, 92, 188]",30 (19 - 46),0.80% (0.50% - 1.21%),Probable
+Faculty,2014,United Kingdom,939,"[15, 39, 83, 7, 41, 48]",27 (15 - 45),2.88% (1.60% - 4.79%),Probable
+Mistral AI,2023,France,442,"[31, 51, 76, 59, 62, 93]",27 (11 - 53),6.11% (2.49% - 11.99%),Probable
+Preferred Networks,2014,Japan,303,"[24, 72, 49, 45, 72, 106]",22 (10 - 43),7.26% (3.30% - 14.19%),Probable
+Naver Cloud,2009,South Korea,1 300,"[18, 57, 44, 78, 107, 135]",20 (12 - 35),1.54% (0.92% - 2.69%),Probable
+Cognizant,1994,United States,300 000,"[85, 1300, 1600, 0, 0, 0]",18 (2 - 65),0.01% (0.00% - 0.02%),Probable
+Booz Allen Hamilton,1914,United States,41 000,"[46, 202, 715, 25, 93, 281]",18 (9 - 34),0.04% (0.02% - 0.08%),Probable
+Liquid AI,2023,United States,79,"[11, 20, 28, 21, 25, 24]",16 (9 - 25),20.25% (11.39% - 31.65%),Probable
+Omdena,2019,United States,556,"[65, 46, 214, 2, 13, 32]",14 (7 - 26),2.52% (1.26% - 4.68%),Probable
+LG CNS,1987,South Korea,5 400,"[11, 63, 40, 13, 41, 98]",14 (6 - 27),0.26% (0.11% - 0.50%),Probable
+SambaNova Systems,2017,United States,474,"[11, 42, 68, 15, 21, 63]",13 (6 - 23),2.74% (1.27% - 4.85%),Probable
+QuantCo,2017,United States,237,"[14, 30, 58, 23, 37, 58]",13 (7 - 22),5.49% (2.95% - 9.28%),Probable
+Upstage,2020,South Korea,187,"[7, 23, 16, 19, 27, 46]",13 (7 - 23),6.95% (3.74% - 12.30%),Probable
+Data Science Group,2015,Israel,490,"[22, 49, 116, -, -, -]",13 (5 - 27) *,2.78% (1.14% - 5.55%),Probable
+BCG X,1963,United States,2 600,"[15, 69, 219, 12, 45, 103]",12 (5 - 22),0.46% (0.19% - 0.85%),Probable
+Silo.AI,2017,Finland,239,"[19, 44, 85, -, -, -]",11 (4 - 20) *,4.69% (2.01% - 8.70%),Probable
+Encora,2003,United States,7 200,"[5, 57, 83, -, -, -]",11 (2 - 31) *,0.16% (0.03% - 0.43%),Probable
+LightOn,2016,France,287,"[0, 5, 6, 5, 8, 13]",10 (3 - 22),3.48% (1.05% - 7.67%),Probable
+InFocusp,2009,India,228,"[8, 17, 38, 2, 17, 30]",10 (6 - 16),4.39% (2.63% - 7.02%),Probable
+ML6,2013,Belgium,130,"[0, 19, 14, 4, 17, 32]",10 (5 - 17),7.69% (3.85% - 13.08%),Probable
+QuantumBlack,2009,United Kingdom,523,"[10, 33, 107, 4, 27, 52]",10 (3 - 19),1.91% (0.57% - 3.63%),Probable
+Fusion,2004,United States,85 000,"[48, 178, 312, -, -, -]",10 (0 - 34) *,0.01% (0.00% - 0.04%),Probable
+Layer 6 AI,2016,Canada,87,"[8, 21, 45, -, -, -]",9 (3 - 16) *,11.04% (3.68% - 18.39%),Probable
+WA,2009,Japan,87 000,"[5, 31, 97, -, -, -]",8 (0 - 34) *,0.01% (0.00% - 0.04%),Probable
+MEGVII,2011,China,428,"[7, 21, 12, 34, 65, 107]",7 (2 - 14) *,1.68% (0.56% - 3.36%),Probable
+Beyond Limits,2014,United States,295,"[1, 3, 18, 0, 9, 16]",7 (3 - 12),2.37% (1.02% - 4.07%),Probable
+Tryolabs,2010,Uruguay,98,"[3, 21, 13, 5, 16, 24]",7 (2 - 14),7.14% (2.04% - 15.00%),Probable
+Science Systems and Applications,1977,United States,652,"[7, 10, 39, -, -, -]",6 (2 - 15) *,0.98% (0.37% - 2.33%),Probable
+Cambridge Consultants,1960,United States,794,"[3, 14, 26, 3, 11, 27]",6 (2 - 13),0.76% (0.25% - 1.64%),Probable
+ipe,2004,France,9 400,"[0, 10, 10, 0, 0, 0]",6 (1 - 18),0.06% (0.01% - 0.19%),Probable
+Fujitsu,1935,Japan,62 000,"[21, 166, 161, -, -, -]",6 (0 - 24) *,0.01% (0.00% - 0.04%),Probable
+Publicis Sapient,1990,United States,21 000,"[20, 151, 356, 2, 31, 150]",6 (2 - 19),0.03% (0.01% - 0.09%),Probable
+Sutherland,1986,United States,58 000,"[9, 47, 90, -, -, -]",6 (0 - 22) *,0.01% (0.00% - 0.04%),Probable
+Abacus.AI,2019,United States,185,"[8, 25, 25, 3, 9, 22]",6 (2 - 10),3.24% (1.08% - 5.41%),Probable
+G-Research,2001,United Kingdom,1 100,"[19, 43, 69, 16, 23, 49]",6 (3 - 11),0.55% (0.27% - 1.00%),Probable
+Inflection AI,2022,United States,63,"[1, 6, 12, 9, 11, 14]",6 (2 - 12),9.52% (3.17% - 19.05%),Probable
+Swisscom,1998,Switzerland,15 000,"[9, 70, 87, 6, 34, 66]",5 (2 - 9),0.03% (0.01% - 0.06%),Probable
+Presight,2020,United Arab Emirates,510,"[2, 10, 27, 3, 13, 25]",5 (2 - 11),0.98% (0.39% - 2.16%),Probable
+Visium,2018,Switzerland,75,"[0, 3, 13, 7, 7, 9]",5 (2 - 9),6.67% (2.67% - 12.00%),Probable
+Euranova,2008,Belgium,159,"[2, 24, 13, -, -, -]",5 (1 - 12) *,3.52% (1.01% - 7.55%),Probable
+ESTsoft,1993,South Korea,388,"[0, 0, 0, 2, 8, 10]",5 (2 - 9),1.29% (0.52% - 2.32%),Probable
+Modulai,2018,Sweden,27,"[5, 6, 14, 3, 10, 12]",5 (2 - 8),18.52% (7.41% - 29.63%),Probable
+Akvelon,2000,United States,688,"[0, 10, 13, 1, 2, 5]",5 (1 - 9),0.73% (0.15% - 1.31%),Probable
+deepsense.ai,2014,United States,108,"[1, 19, 19, -, -, -]",4 (1 - 10) *,4.44% (1.48% - 9.63%),Probable
+DareData,2019,Portugal,85,"[1, 8, 23, -, -, -]",4 (1 - 9) *,5.65% (1.88% - 11.29%),Probable
+Adaptive ML,2023,France,31,"[6, 10, 8, 6, 8, 8]",4 (1 - 8),12.90% (3.23% - 25.81%),Probable
+LatticeFlow,2020,Switzerland,48,"[3, 12, 6, -, -, -]",4 (0 - 8) *,8.33% (1.67% - 16.67%),Probable
+NTT Research,1998,United States,85,"[7, 8, 12, 3, 7, 18]",4 (1 - 9),4.71% (1.18% - 10.59%),Probable
+Unit8,2017,Switzerland,141,"[3, 15, 23, -, -, -]",4 (1 - 8) *,3.40% (1.13% - 6.24%),Probable
+Avanade,2000,United States,17 000,"[11, 174, 200, 2, 22, 106]",4 (1 - 10),0.02% (0.01% - 0.06%),Probable
+Tooploox,2012,Poland,163,"[1, 19, 12, -, -, -]",4 (1 - 10) *,2.94% (0.98% - 6.38%),Probable
+NEC Corporation,1899,Japan,11 000,"[22, 74, 54, 24, 43, 102]",4 (1 - 9),0.04% (0.01% - 0.08%),Probable
+AE Studio,2016,United States,205,"[3, 4, 35, 7, 11, 17]",4 (1 - 8),1.95% (0.49% - 3.90%),Probable
+Futurewei Technologies,2001,United States,327,"[9, 11, 46, -, -, -]",4 (1 - 10) *,1.47% (0.49% - 3.18%),Probable
+ActiveFence,2018,United States,334,"[2, 10, 9, 2, 3, 7]",4 (2 - 8),1.20% (0.60% - 2.40%),Probable
+Bespin Global,2015,South Korea,605,"[1, 4, 1, -, -, -]",4 (1 - 11) *,0.79% (0.26% - 1.85%),Probable
+Aurizn,2022,Australia,169,"[1, 5, 9, 1, 4, 9]",4 (2 - 8),2.37% (1.18% - 4.73%),Probable
+Coexya,2020,France,648,"[1, 15, 3, 1, 3, 7]",3 (1 - 8),0.46% (0.15% - 1.23%),Probable
+twoday,,Denmark,1 900,"[1, 24, 16, -, -, -]",3 (0 - 10) *,0.17% (0.04% - 0.55%),Probable
+VinAI Research,2019,Vietnam,33,"[1, 18, 13, 18, 31, 44]",3 (1 - 7),9.09% (3.03% - 21.21%),Probable
+Effixis,2017,Switzerland,34,"[0, 1, 7, 0, 4, 8]",3 (1 - 6),8.82% (2.94% - 17.65%),Probable
+DiveDeepAI,2021,Pakistan,43,"[0, 3, 10, 1, 5, 10]",3 (1 - 6),6.98% (2.33% - 13.95%),Probable
+Moov AI,2018,Canada,57,"[0, 1, 5, 1, 2, 5]",3 (1 - 5),5.26% (1.75% - 8.77%),Probable
+Merantix Momentum,2019,Germany,59,"[4, 6, 12, 1, 9, 12]",3 (1 - 7),5.08% (1.69% - 11.86%),Probable
+Polestar Analytics,2012,India,647,"[2, 13, 13, 0, 1, 2]",3 (1 - 8),0.46% (0.15% - 1.24%),Probable
+Saxon AI,2004,United States,484,"[0, 8, 5, 0, 1, 3]",3 (1 - 8),0.62% (0.21% - 1.65%),Probable
+Elder Research,1995,United States,170,"[0, 6, 23, -, -, -]",3 (0 - 6) *,1.88% (0.47% - 3.76%),Probable
+R&D Center WINSTARS.AI,2016,Ukraine,43,"[2, 6, 1, -, -, -]",2 (0 - 4) *,5.58% (1.86% - 11.16%),Probable
+StatSoft,1986,Germany,33,"[1, 7, 1, -, -, -]",2 (0 - 4) *,7.27% (2.42% - 14.55%),Probable
+Infinia ML,2017,United States,33,"[0, 6, 11, -, -, -]",2 (0 - 5) *,7.27% (2.42% - 16.97%),Probable
+Charter Global,1994,United States,395,"[0, 0, 3, -, -, -]",2 (0 - 6) *,0.61% (0.20% - 1.76%),Probable
+DeepNeuronic,2020,Portugal,16,"[3, 7, 3, 1, 3, 4]",2 (1 - 5),12.50% (6.25% - 31.25%),Probable

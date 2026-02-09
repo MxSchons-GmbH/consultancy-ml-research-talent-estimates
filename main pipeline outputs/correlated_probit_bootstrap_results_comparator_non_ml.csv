@@ -1,0 +1,19 @@
+linkedin_id,company_name,mean,std,q10,q50,q90,n_employees
+the-coca-cola-company,The Coca-Cola Company,1.8916015625,2.3817682698464933,0.0,1.0,5.0,60000
+sherwin-williams,Sherwin-Williams,1.646484375,1.3686027830896952,0.0,1.0,3.0,44000
+burberry,Burberry,1.279296875,1.1776404398691624,0.0,1.0,3.0,8500
+penguin-random-house-publishing,Penguin Random House,0.5576171875,1.0225010438647923,0.0,0.0,2.0,8000
+harpercollins,HarperCollins Publishers,0.52734375,0.9937472361400245,0.0,0.0,2.0,4000
+lvmh,LVMH,0.0673828125,0.30674479470659294,0.0,0.0,0.0,7000
+yeti,YETI,0.0576171875,0.37447956847415564,0.0,0.0,0.0,2000
+the-north-face,The North Face,0.041015625,0.20319071953674306,0.0,0.0,0.0,4500
+jotun,Jotun,0.0400390625,0.200970298736209,0.0,0.0,0.0,6000
+crocsinc,"Crocs, Inc.",0.0390625,0.21295333078810955,0.0,0.0,0.0,5500
+patagonia_2,Patagonia,0.0302734375,0.17694654978815946,0.0,0.0,0.0,3500
+desigual,Desigual,0.025390625,0.1804395775934686,0.0,0.0,0.0,2500
+the-british-museum,The British Museum,0.0078125,0.08804240366863003,0.0,0.0,0.0,1000
+sierra-nevada-brewing-co-,Sierra Nevada Brewing Co.,0.0048828125,0.06970631708883954,0.0,0.0,0.0,769
+london-symphony-orchestra,London Symphony Orchestra,0.00390625,0.06237781024480981,0.0,0.0,0.0,232
+museo-nacional-del-prado,Museo Nacional del Prado,0.0029296875,0.05404724258602231,0.0,0.0,0.0,296
+new-york-philharmonic,New York Philharmonic,0.0029296875,0.05404724258602231,0.0,0.0,0.0,288
+hydro-flask,Hydro Flask,0.0009765625,0.031234737483827102,0.0,0.0,0.0,135

@@ -1,0 +1,404 @@
+Company Name,Founded,Country,Total Staff (LinkedIn),"Individual Estimates [broad+strict, strict, broad, claude, gpt5, gemini]",ML Talent q50 (q10 - q90),ML % of Total,Category
+Tata Consultancy Services,1968,India,640 000,"[305, 5400, 3200, 0, 0, 0]",87 (12 - 322) *,0.01% (0.00% - 0.05%),Probable
+Accenture,1989,Ireland,550 000,"[186, 3400, 3500, 0, 0, 0]",76 (13 - 280) *,0.01% (0.00% - 0.05%),Probable
+Yandex,1997,Russia,9 900,"[67, 521, 232, 142, 291, 528]",60 (41 - 90),0.61% (0.41% - 0.91%),Probable
+Deloitte,1845,United Kingdom,430 000,"[171, 2200, 3700, 0, 0, 0]",54 (8 - 211) *,0.01% (0.00% - 0.05%),Probable
+Cohere,2019,Canada,831,"[45, 75, 187, 85, 112, 136]",45 (26 - 76),5.42% (3.13% - 9.15%),Probable
+Scale AI,2016,United States,5 800,"[68, 221, 594, 82, 179, 326]",45 (29 - 75),0.78% (0.50% - 1.29%),Probable
+IBM,1911,United States,290 000,"[443, 2300, 3900, -, -, -]",42 (5 - 143) *,0.01% (0.00% - 0.05%),Probable
+Capgemini,1967,France,260 000,"[103, 2100, 1500, -, -, -]",38 (5 - 131) *,0.01% (0.00% - 0.05%),Probable
+Cerebras Systems,2016,United States,726,"[22, 71, 142, 69, 76, 142]",36 (21 - 61),4.96% (2.89% - 8.40%),Probable
+Quantiphi,2013,United States,3 800,"[23, 195, 279, 17, 92, 188]",30 (19 - 46),0.80% (0.50% - 1.21%),Probable
+Mistral AI,2023,France,442,"[31, 51, 76, 59, 62, 93]",27 (11 - 53),6.11% (2.49% - 11.99%),Probable
+Faculty,2014,United Kingdom,939,"[15, 39, 83, 7, 41, 48]",27 (15 - 45),2.88% (1.60% - 4.79%),Probable
+Preferred Networks,2014,Japan,303,"[24, 72, 49, 45, 72, 106]",22 (10 - 43),7.26% (3.30% - 14.19%),Probable
+Naver Cloud,2009,South Korea,1 300,"[18, 57, 44, 78, 107, 135]",20 (12 - 35),1.54% (0.92% - 2.69%),Probable
+Cognizant,1994,United States,300 000,"[85, 1300, 1600, 0, 0, 0]",18 (2 - 65),0.01% (0.00% - 0.02%),Probable
+Booz Allen Hamilton,1914,United States,41 000,"[46, 202, 715, 25, 93, 281]",18 (9 - 34),0.04% (0.02% - 0.08%),Probable
+Liquid AI,2023,United States,79,"[11, 20, 28, 21, 25, 24]",16 (9 - 25),20.25% (11.39% - 31.65%),Probable
+LG CNS,1987,South Korea,5 400,"[11, 63, 40, 13, 41, 98]",14 (6 - 27),0.26% (0.11% - 0.50%),Probable
+Omdena,2019,United States,556,"[65, 46, 214, 2, 13, 32]",14 (7 - 26),2.52% (1.26% - 4.68%),Probable
+SambaNova Systems,2017,United States,474,"[11, 42, 68, 15, 21, 63]",13 (6 - 23),2.74% (1.27% - 4.85%),Probable
+Upstage,2020,South Korea,187,"[7, 23, 16, 19, 27, 46]",13 (7 - 23),6.95% (3.74% - 12.30%),Probable
+Data Science Group,2015,Israel,490,"[22, 49, 116, -, -, -]",13 (5 - 27) *,2.78% (1.14% - 5.55%),Probable
+QuantCo,2017,United States,237,"[14, 30, 58, 23, 37, 58]",13 (7 - 22),5.49% (2.95% - 9.28%),Probable
+BCG X,1963,United States,2 600,"[15, 69, 219, 12, 45, 103]",12 (5 - 22),0.46% (0.19% - 0.85%),Probable
+Silo.AI,2017,Finland,239,"[19, 44, 85, -, -, -]",11 (4 - 20) *,4.69% (2.01% - 8.70%),Probable
+Encora,2003,United States,7 200,"[5, 57, 83, -, -, -]",11 (2 - 31) *,0.16% (0.03% - 0.43%),Probable
+LightOn,2016,France,287,"[0, 5, 6, 5, 8, 13]",10 (3 - 22),3.48% (1.05% - 7.67%),Probable
+Fusion,2004,United States,85 000,"[48, 178, 312, -, -, -]",10 (0 - 34) *,0.01% (0.00% - 0.04%),Probable
+InFocusp,2009,India,228,"[8, 17, 38, 2, 17, 30]",10 (6 - 16),4.39% (2.63% - 7.02%),Probable
+QuantumBlack,2009,United Kingdom,523,"[10, 33, 107, 4, 27, 52]",10 (3 - 19),1.91% (0.57% - 3.63%),Probable
+ML6,2013,Belgium,130,"[0, 19, 14, 4, 17, 32]",10 (5 - 17),7.69% (3.85% - 13.08%),Probable
+Layer 6 AI,2016,Canada,87,"[8, 21, 45, -, -, -]",9 (3 - 16) *,11.04% (3.68% - 18.39%),Probable
+WA,2009,Japan,87 000,"[5, 31, 97, -, -, -]",8 (0 - 34) *,0.01% (0.00% - 0.04%),Probable
+Tryolabs,2010,Uruguay,98,"[3, 21, 13, 5, 16, 24]",7 (2 - 14),7.14% (2.04% - 15.00%),Probable
+Beyond Limits,2014,United States,295,"[1, 3, 18, 0, 9, 16]",7 (3 - 12),2.37% (1.02% - 4.07%),Probable
+MEGVII,2011,China,428,"[7, 21, 12, 34, 65, 107]",7 (2 - 14) *,1.68% (0.56% - 3.36%),Probable
+Genpact,1997,United States,130 000,"[28, 384, 582, -, -, -]",7 (0 - 28),0.01% (0.00% - 0.02%),Possible
+G-Research,2001,United Kingdom,1 100,"[19, 43, 69, 16, 23, 49]",6 (3 - 11),0.55% (0.27% - 1.00%),Probable
+Cambridge Consultants,1960,United States,794,"[3, 14, 26, 3, 11, 27]",6 (2 - 13),0.76% (0.25% - 1.64%),Probable
+Inflection AI,2022,United States,63,"[1, 6, 12, 9, 11, 14]",6 (2 - 12),9.52% (3.17% - 19.05%),Probable
+ipe,2004,France,9 400,"[0, 10, 10, 0, 0, 0]",6 (1 - 18),0.06% (0.01% - 0.19%),Probable
+Publicis Sapient,1990,United States,21 000,"[20, 151, 356, 2, 31, 150]",6 (2 - 19),0.03% (0.01% - 0.09%),Probable
+Abacus.AI,2019,United States,185,"[8, 25, 25, 3, 9, 22]",6 (2 - 10),3.24% (1.08% - 5.41%),Probable
+Sutherland,1986,United States,58 000,"[9, 47, 90, -, -, -]",6 (0 - 22) *,0.01% (0.00% - 0.04%),Probable
+Fujitsu,1935,Japan,62 000,"[21, 166, 161, -, -, -]",6 (0 - 24) *,0.01% (0.00% - 0.04%),Probable
+Science Systems and Applications,1977,United States,652,"[7, 10, 39, -, -, -]",6 (2 - 15) *,0.98% (0.37% - 2.33%),Probable
+ESTsoft,1993,South Korea,388,"[0, 0, 0, 2, 8, 10]",5 (2 - 9),1.29% (0.52% - 2.32%),Probable
+Visium,2018,Switzerland,75,"[0, 3, 13, 7, 7, 9]",5 (2 - 9),6.67% (2.67% - 12.00%),Probable
+Euranova,2008,Belgium,159,"[2, 24, 13, -, -, -]",5 (1 - 12) *,3.52% (1.01% - 7.55%),Probable
+Presight,2020,United Arab Emirates,510,"[2, 10, 27, 3, 13, 25]",5 (2 - 11),0.98% (0.39% - 2.16%),Probable
+Akvelon,2000,United States,688,"[0, 10, 13, 1, 2, 5]",5 (1 - 9),0.73% (0.15% - 1.31%),Probable
+Modulai,2018,Sweden,27,"[5, 6, 14, 3, 10, 12]",5 (2 - 8),18.52% (7.41% - 29.63%),Probable
+Swisscom,1998,Switzerland,15 000,"[9, 70, 87, 6, 34, 66]",5 (2 - 9),0.03% (0.01% - 0.06%),Probable
+Avanade,2000,United States,17 000,"[11, 174, 200, 2, 22, 106]",4 (1 - 10),0.02% (0.01% - 0.06%),Probable
+DareData,2019,Portugal,85,"[1, 8, 23, -, -, -]",4 (1 - 9) *,5.65% (1.88% - 11.29%),Probable
+LatticeFlow,2020,Switzerland,48,"[3, 12, 6, -, -, -]",4 (0 - 8) *,8.33% (1.67% - 16.67%),Probable
+NEC Corporation,1899,Japan,11 000,"[22, 74, 54, 24, 43, 102]",4 (1 - 9),0.04% (0.01% - 0.08%),Probable
+Futurewei Technologies,2001,United States,327,"[9, 11, 46, -, -, -]",4 (1 - 10) *,1.47% (0.49% - 3.18%),Probable
+ActiveFence,2018,United States,334,"[2, 10, 9, 2, 3, 7]",4 (2 - 8),1.20% (0.60% - 2.40%),Probable
+AE Studio,2016,United States,205,"[3, 4, 35, 7, 11, 17]",4 (1 - 8),1.95% (0.49% - 3.90%),Probable
+NTT Research,1998,United States,85,"[7, 8, 12, 3, 7, 18]",4 (1 - 9),4.71% (1.18% - 10.59%),Probable
+FPT Software,1988,United States,26 000,"[9, 199, 92, -, -, -]",4 (0 - 13) *,0.02% (0.00% - 0.05%),Possible
+Bespin Global,2015,South Korea,605,"[1, 4, 1, -, -, -]",4 (1 - 11) *,0.79% (0.26% - 1.85%),Probable
+Adaptive ML,2023,France,31,"[6, 10, 8, 6, 8, 8]",4 (1 - 8),12.90% (3.23% - 25.81%),Probable
+Aurizn,2022,Australia,169,"[1, 5, 9, 1, 4, 9]",4 (2 - 8),2.37% (1.18% - 4.73%),Probable
+Tooploox,2012,Poland,163,"[1, 19, 12, -, -, -]",4 (1 - 10) *,2.94% (0.98% - 6.38%),Probable
+Unit8,2017,Switzerland,141,"[3, 15, 23, -, -, -]",4 (1 - 8) *,3.40% (1.13% - 6.24%),Probable
+deepsense.ai,2014,United States,108,"[1, 19, 19, -, -, -]",4 (1 - 10) *,4.44% (1.48% - 9.63%),Probable
+Moov AI,2018,Canada,57,"[0, 1, 5, 1, 2, 5]",3 (1 - 5),5.26% (1.75% - 8.77%),Probable
+Elder Research,1995,United States,170,"[0, 6, 23, -, -, -]",3 (0 - 6) *,1.88% (0.47% - 3.76%),Probable
+Halfspace,2015,United States,81,"[0, 12, 12, 0, 6, 10]",3 (0 - 7),3.70% (0.00% - 8.64%),Possible
+Supply Solutions,2002,Brazil,47 000,"[0, 0, 0, 0, 0, 0]",3 (0 - 10),0.01% (0.00% - 0.02%),Possible
+MP DATA,2015,France,145,"[4, 33, 14, 0, 12, 18]",3 (0 - 6),2.07% (0.00% - 4.14%),Possible
+Orcawise,2011,Ireland,65,"[0, 0, 10, 0, 3, 10]",3 (0 - 6),4.62% (0.00% - 9.23%),Possible
+Merantix Momentum,2019,Germany,59,"[4, 6, 12, 1, 9, 12]",3 (1 - 7),5.08% (1.69% - 11.86%),Probable
+IFG,2008,United States,4 800,"[0, 6, 13, 0, 0, 0]",3 (0 - 10),0.06% (0.00% - 0.21%),Possible
+SAIT,1997,Italy,4 800,"[0, 3, 37, 0, 0, 0]",3 (0 - 10),0.06% (0.00% - 0.21%),Possible
+Polestar Analytics,2012,India,647,"[2, 13, 13, 0, 1, 2]",3 (1 - 8),0.46% (0.15% - 1.24%),Probable
+CAS,1988,Germany,4 600,"[2, 9, 30, 0, 0, 0]",3 (0 - 9),0.07% (0.00% - 0.20%),Possible
+DiveDeepAI,2021,Pakistan,43,"[0, 3, 10, 1, 5, 10]",3 (1 - 6),6.98% (2.33% - 13.95%),Probable
+Effixis,2017,Switzerland,34,"[0, 1, 7, 0, 4, 8]",3 (1 - 6),8.82% (2.94% - 17.65%),Probable
+BairesDev,2009,United States,3 100,"[0, 20, 60, 2, 12, 28]",3 (0 - 8),0.10% (0.00% - 0.26%),Possible
+VinAI Research,2019,Vietnam,33,"[1, 18, 13, 18, 31, 44]",3 (1 - 7),9.09% (3.03% - 21.21%),Probable
+Saxon AI,2004,United States,484,"[0, 8, 5, 0, 1, 3]",3 (1 - 8),0.62% (0.21% - 1.65%),Probable
+twoday,,Denmark,1 900,"[1, 24, 16, -, -, -]",3 (0 - 10) *,0.17% (0.04% - 0.55%),Probable
+Coexya,2020,France,648,"[1, 15, 3, 1, 3, 7]",3 (1 - 8),0.46% (0.15% - 1.23%),Probable
+ML cube,,Italy,25,"[3, 11, 11, 2, 3, 8]",2 (0 - 4),8.00% (0.00% - 18.80%),Possible
+Brainpool AI,2016,United Kingdom,24,"[0, 0, 3, 1, 2, 3]",2 (0 - 4),8.33% (0.00% - 16.67%),Possible
+ThinkCol,2016,Hong Kong,22,"[0, 0, 0, 0, 2, 2]",2 (0 - 4),9.09% (0.00% - 18.18%),Possible
+Xomnia,2013,Netherlands,91,"[1, 10, 11, 0, 4, 5]",2 (0 - 5),2.20% (0.00% - 5.49%),Possible
+Cogent Labs,2014,Japan,90,"[0, 1, 4, 0, 0, 1]",2 (0 - 5),2.22% (0.00% - 5.56%),Possible
+Boltzbit,2020,United Kingdom,11,"[1, 2, 4, 1, 1, 1]",2 (0 - 3),18.18% (0.00% - 27.27%),Possible
+Fiddler AI,2018,United States,102,"[2, 5, 13, 1, 1, 5]",2 (0 - 4),1.96% (0.00% - 3.92%),Possible
+Imandra,2014,United States,22,"[2, 0, 5, 3, 3, 9]",2 (0 - 5),9.09% (0.00% - 22.73%),Possible
+DeepNeuronic,2020,Portugal,16,"[3, 7, 3, 1, 3, 4]",2 (1 - 5),12.50% (6.25% - 31.25%),Probable
+Info Strategic,2016,United Arab Emirates,56,"[0, 1, 4, 0, 1, 2]",2 (0 - 4),3.57% (0.00% - 7.14%),Possible
+InferLink,2010,United States,21,"[0, 2, 6, 2, 4, 6]",2 (0 - 4),9.52% (0.00% - 19.05%),Possible
+Numlabs,2019,Poland,32,"[0, 6, 2, 1, 4, 5]",2 (0 - 5),6.25% (0.00% - 15.62%),Possible
+Infinia ML,2017,United States,33,"[0, 6, 11, -, -, -]",2 (0 - 5) *,7.27% (2.42% - 16.97%),Probable
+Creatica,2014,Germany,84,"[0, 0, 0, 0, 0, 1]",2 (0 - 5),2.38% (0.00% - 5.95%),Possible
+StatSoft,1986,Germany,33,"[1, 7, 1, -, -, -]",2 (0 - 4) *,7.27% (2.42% - 14.55%),Probable
+AMAI,2018,Germany,19,"[0, 3, 4, 2, 3, 6]",2 (0 - 4),10.53% (0.00% - 21.05%),Possible
+Enthought,2001,United States,72,"[5, 6, 17, 1, 4, 11]",2 (0 - 5),2.78% (0.00% - 6.94%),Possible
+R&D Center WINSTARS.AI,2016,Ukraine,43,"[2, 6, 1, -, -, -]",2 (0 - 4) *,5.58% (1.86% - 11.16%),Probable
+NNAISENSE,2014,Switzerland,16,"[2, 4, 3, 4, 5, 5]",2 (0 - 5),12.50% (0.00% - 31.25%),Possible
+EnliteAI,2017,Austria,17,"[0, 1, 2, 1, 1, 1]",2 (0 - 4),11.76% (0.00% - 23.53%),Possible
+Recursive,2020,Japan,52,"[1, 3, 7, 3, 4, 5]",2 (0 - 5),3.85% (0.00% - 9.62%),Possible
+HI Iberia,1989,Spain,118,"[2, 9, 4, 0, 7, 10]",2 (0 - 4),1.69% (0.00% - 3.39%),Possible
+Addepto,2018,Poland,68,"[1, 7, 10, 0, 2, 2]",2 (0 - 4),2.94% (0.00% - 5.88%),Possible
+XITASO,2011,Germany,198,"[2, 12, 5, 2, 5, 10]",2 (0 - 5),1.01% (0.00% - 2.53%),Possible
+Kyanon Digital,2012,Vietnam,294,"[1, 5, 2, 0, 1, 4]",2 (0 - 5),0.68% (0.00% - 1.70%),Possible
+AND Technology Research,1980,United Kingdom,38 000,"[0, 0, 0, 0, 0, 0]",2 (0 - 9),0.01% (0.00% - 0.02%),Possible
+RedMane Technology LLC,2000,United States,351,"[0, 5, 6, 0, 1, 1]",2 (0 - 5),0.57% (0.00% - 1.42%),Possible
+Closer Consulting,2006,Portugal,361,"[2, 8, 14, 0, 1, 7]",2 (0 - 5),0.55% (0.00% - 1.39%),Possible
+VRIZE,2020,United States,373,"[1, 4, 2, 0, 0, 1]",2 (0 - 5),0.54% (0.00% - 1.34%),Possible
+Charter Global,1994,United States,395,"[0, 0, 3, -, -, -]",2 (0 - 6) *,0.61% (0.20% - 1.76%),Probable
+Technology Control Corporation,2008,Saudi Arabia,418,"[0, 1, 5, 1, 2, 6]",2 (0 - 6),0.48% (0.00% - 1.44%),Possible
+LeewayHertz Technologies,2007,United States,211,"[0, 5, 9, 0, 0, 7]",2 (0 - 5),0.95% (0.00% - 2.37%),Possible
+Stratpoint Technologies,1998,Philippines,522,"[1, 6, 5, 0, 1, 4]",2 (0 - 6),0.38% (0.00% - 1.15%),Possible
+Coherent Solutions,1995,United States,1 100,"[1, 7, 6, 0, 2, 4]",2 (0 - 5),0.18% (0.00% - 0.45%),Possible
+Mobcoder,2014,United States,219,"[0, 4, 3, -, -, -]",2 (0 - 5) *,1.10% (0.00% - 2.56%),Possible
+Spatialedge,2016,South Africa,134,"[6, 21, 23, 0, 0, 15]",2 (0 - 5),1.49% (0.00% - 3.73%),Possible
+Q agency,2013,Croatia,261,"[0, 0, 2, 0, 1, 2]",2 (0 - 5),0.77% (0.00% - 1.92%),Possible
+Itransition,1998,United States,1 500,"[0, 7, 6, -, -, -]",2 (0 - 6) *,0.16% (0.00% - 0.43%),Possible
+Kainos,1986,United Kingdom,2 900,"[0, 16, 26, 0, 3, 5]",2 (0 - 6),0.07% (0.00% - 0.21%),Possible
+NeuroSYS,2010,Poland,52,"[1, 2, 0, 2, 2, 1]",1 (0 - 3),1.92% (0.00% - 5.77%),Possible
+ANDRO Computational Solutions,1994,United States,41,"[0, 3, 4, 1, 2, 4]",1 (0 - 3),2.44% (0.00% - 7.32%),Possible
+BigThinkCode Technologies,2021,India,51,"[1, 1, 2, 0, 0, 1]",1 (0 - 3),1.96% (0.00% - 5.88%),Possible
+KAMTECH,1997,India,296,"[0, 0, 2, 0, 0, 0]",1 (0 - 3),0.34% (0.00% - 1.01%),Possible
+Fraktal Norge,2014,Norway,52,"[0, 0, 1, 0, 1, 1]",1 (0 - 2),1.92% (0.00% - 3.85%),Possible
+Software Systems,1991,Oman,264,"[0, 0, 0, 0, 0, 0]",1 (0 - 3),0.38% (0.00% - 1.14%),Possible
+Cloud Temple,2017,France,302,"[1, 5, 1, 0, 1, 2]",1 (0 - 4),0.33% (0.00% - 1.32%),Possible
+TechAhead,2009,United States,310,"[0, 2, 6, 0, 0, 1]",1 (0 - 4),0.32% (0.00% - 1.29%),Possible
+Markovate Inc.,2015,United States,57,"[0, 0, 5, 0, 0, 1]",1 (0 - 3),1.75% (0.00% - 5.26%),Possible
+Konverge.AI,2018,India,130,"[1, 6, 15, 0, 0, 8]",1 (0 - 4),0.77% (0.00% - 3.08%),Possible
+Orobix,2009,Italy,38,"[1, 0, 3, 1, 2, 4]",1 (0 - 3),2.63% (0.00% - 7.89%),Possible
+Edvantis,2005,Germany,343,"[0, 2, 1, 0, 0, 1]",1 (0 - 4),0.29% (0.00% - 1.17%),Possible
+InData Labs,2014,Cyprus,59,"[0, 5, 4, 0, 4, 5]",1 (0 - 4),1.69% (0.00% - 6.78%),Possible
+Applied Data Science Partners,2016,United Kingdom,33,"[0, 3, 4, 0, 1, 1]",1 (0 - 3),3.03% (0.00% - 9.09%),Possible
+Tech Valley,2014,France,2 300,"[0, 0, 0, 0, 0, 0]",1 (0 - 5),0.04% (0.00% - 0.22%),Possible
+Atmo,2020,United States,30,"[0, 6, 7, 1, 1, 1]",1 (0 - 3),3.33% (0.00% - 10.00%),Possible
+MI-6,2017,Japan,130,"[6, 19, 0, 0, 0, 6]",1 (0 - 4),0.77% (0.00% - 3.08%),Possible
+DataRoot Labs,2016,Ukraine,28,"[1, 9, 1, 0, 3, 5]",1 (0 - 4),3.57% (0.00% - 14.29%),Possible
+Infer Solutions,2002,United States,20,"[0, 1, 0, 0, 0, 1]",1 (0 - 2),5.00% (0.00% - 10.00%),Possible
+LBox Co,2019,South Korea,25,"[0, 0, 0, 2, 3, 3]",1 (0 - 2),4.00% (0.00% - 8.00%),Possible
+UMD,1983,Australia,1 300,"[3, 6, 11, 0, 0, 0]",1 (0 - 3),0.08% (0.00% - 0.23%),Possible
+Neural Magic,2018,United States,21,"[2, 3, 5, 1, 1, 1]",1 (0 - 2),4.76% (0.00% - 9.52%),Possible
+BigData Republic,2015,Netherlands,23,"[0, 4, 4, 0, 2, 4]",1 (0 - 3),4.35% (0.00% - 13.04%),Possible
+ELEKS,1991,Ukraine,1 900,"[1, 12, 5, 0, 0, 3]",1 (0 - 4),0.05% (0.00% - 0.21%),Possible
+Pyramid Consulting Group,1996,United States,226,"[0, 0, 0, 0, 0, 0]",1 (0 - 3),0.44% (0.00% - 1.33%),Possible
+GalaxE.Solutions,1990,United States,1 300,"[0, 9, 4, 0, 0, 0]",1 (0 - 3),0.08% (0.00% - 0.23%),Possible
+Binariks,2014,United States,203,"[0, 3, 0, 0, 0, 0]",1 (0 - 2),0.49% (0.00% - 0.99%),Possible
+kineo.ai,2020,Germany,12,"[0, 1, 2, 0, 1, 1]",1 (0 - 4),8.33% (0.00% - 33.33%),Possible
+Strong Analytics,2016,United States,9,"[1, 1, 3, 1, 2, 1]",1 (0 - 3),11.11% (0.00% - 33.33%),Possible
+Schafer Corporation,1972,United States,176,"[0, 0, 0, 0, 0, 2]",1 (0 - 2),0.57% (0.00% - 1.14%),Possible
+Altrium,2022,United States,91,"[0, 2, 6, 0, 0, 4]",1 (0 - 3),1.10% (0.00% - 3.30%),Possible
+AI Consult,2019,Brazil,203,"[0, 1, 0, 0, 0, 0]",1 (0 - 2),0.49% (0.00% - 0.99%),Possible
+Qvik,2008,Finland,92,"[0, 1, 3, 0, 0, 1]",1 (0 - 2),1.09% (0.00% - 2.17%),Possible
+Guardians Infotech,2022,United States,81,"[0, 0, 0, 0, 0, 0]",1 (0 - 2),1.23% (0.00% - 2.47%),Possible
+Xaion Data,2020,Japan,80,"[0, 0, 0, 0, 0, 0]",1 (0 - 2),1.25% (0.00% - 2.50%),Possible
+Closeloop Technologies,2011,United States,95,"[0, 0, 3, 0, 0, 1]",1 (0 - 3),1.05% (0.00% - 3.16%),Possible
+XenonStack,2016,United States,96,"[0, 2, 3, 0, 0, 2]",1 (0 - 3),1.04% (0.00% - 3.12%),Possible
+Avertra,2007,United States,207,"[0, 1, 0, 0, 0, 1]",1 (0 - 3),0.48% (0.00% - 1.45%),Possible
+247 Labs,2013,Canada,76,"[0, 1, 1, -, -, -]",1 (0 - 4) *,2.11% (0.00% - 5.26%),Possible
+Megamax Services,2015,India,210,"[0, 2, 0, 0, 0, 0]",1 (0 - 3),0.48% (0.00% - 1.43%),Possible
+Sahana System,2012,India,158,"[1, 7, 4, 0, 0, 3]",1 (0 - 4),0.63% (0.00% - 2.53%),Possible
+Sieger,2004,Germany,220,"[0, 1, 1, -, -, -]",1 (0 - 4) *,0.73% (0.00% - 1.82%),Possible
+FS Studio,2013,United States,64,"[0, 0, 0, 0, 0, 2]",1 (0 - 3),1.56% (0.00% - 4.69%),Possible
+DeepMetis,2020,Germany,13,"[0, 0, 0, 0, 1, 2]",1 (0 - 4),7.69% (0.00% - 30.77%),Possible
+HydroMind,2021,India,4,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 25.00%),Non-zero
+Finolity Consultancy Services,2017,India,4,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+iiNumbers,2014,Taiwan,4,"[0, 1, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Double Check Consulting,2011,United States,10,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Technology,2001,Lebanon,3,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Q-Noon,2017,Turkey,3,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Chi SquareX,2021,India,10,"[1, 3, 4, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 10.00%),Non-zero
+HatchWorks,2016,United States,0,"[0, 2, 4, -, -, -]",0 (0 - 0) *,-,Not Detected
+we-do.ai,2007,Germany,9,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+YouNeeD,2014,Colombia,4,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+HyQuest Consulting Solutions,2007,United States,9,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Xaigi Technology,2021,India,3,"[0, 0, 6, 0, 1, 2]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Polixir,2018,China,10,"[0, 1, 1, -, -, -]",0 (0 - 1) *,0.00% (0.00% - 16.00%),Non-zero
+Kmeleon,2017,United States,10,"[0, 1, 2, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Solid Software Solutions,2011,Poland,3,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+FlowPlus,2018,United Kingdom,3,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+AIQRATE,2019,India,3,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Royal Caliber,2011,United States,10,"[0, 0, 1, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 8.00%),Non-zero
+The Quantitative Consulting & Solutions,2013,Hong Kong,3,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Downtown Consulting,2011,United Kingdom,3,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Japan Data Science Consortium,2018,Japan,3,"[0, 0, 0, 0, 0, 4]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+RBC Group,2008,Ukraine,9,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+IT Consulting Group,2011,United States,3,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+數辰創藝科技股份有限公司,2021,Taiwan,7,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Taris Technologies,2022,India,4,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Azati Corporation,2002,Poland,4,"[0, 1, 0, 0, 0, 2]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Digiwise,2012,Iran,7,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Gefatec,2012,Brazil,7,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+NEC Research Institute,,Unknown,7,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Eigen partners,,United States,7,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Qexpert,2015,Brazil,6,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Lukasa,2021,United States,8,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Ignous,2012,Chile,8,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Vertex Laboratories,2016,United States,6,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Thinking Machines,2015,Philippines,8,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Evergo,2006,Poland,3,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Springbok AI,2017,United Kingdom,6,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Courart Informática,1991,Brazil,8,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Information Workers Group,2006,Italy,6,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Toncent Information Technology Service,2015,China,6,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Data-Sleek,2020,United States,8,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+USC,1991,Japan,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+New Outcome,2001,Germany,5,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Accord Business Group,2014,United Arab Emirates,5,"[0, 0, 7, 0, 1, 2]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+GENIA,2019,Trinidad and Tobago,5,"[0, 2, 0, -, -, -]",0 (0 - 1) *,16.00% (0.00% - 32.00%),Possible
+PBQ Oilfield Services,2013,United Arab Emirates,5,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Muons Technology,,United States,8,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Arena Technologies,2002,United States,5,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Tumult Labs,2019,United States,5,"[0, 0, 0, 0, 0, 2]",0 (0 - 1),0.00% (0.00% - 20.00%),Non-zero
+Allogic Tecnologia,2016,Brazil,5,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+H&W Consulting,2017,China,7,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+ONE LOGIC,2013,Germany,6,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Inftech,,Germany,2,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Sevn3.ai,2021,India,2,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Inttao,2003,United States,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+Chapel Hill Tech,2002,United States,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Rubentis,2015,South Korea,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Technologies,2014,Japan,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+ROA Intelligence,2003,South Korea,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Geeks Data Consulting,2016,Tunisia,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+curious.ai,2013,Unknown,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Xihu Xinchen,2021,China,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+BitAddict AB,2014,Sweden,0,"[0, 0, 0, 0, 0, 1]",0 (0 - 0) *,-,Not Detected
+ANewD.ai,2017,United States,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Inavan India Technologies,2003,India,0,"[1, 2, 3, 1, 1, 2]",0 (0 - 0) *,-,Not Detected
+NivoNexus,2021,Unknown,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+RedMaxx Consultoria,2008,Brazil,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+ClearSource,2008,United States,11,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+NeXT'S,2014,Burkina Faso,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+NUMERICUBE,2009,France,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Automators GmbH,2018,Austria,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+Defour Analytics Pvt. Ltd.,2016,India,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Visual IT Solutions,2008,India,0,"[0, 0, 1, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+RK Software Services,2010,United States,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+Argonaut AI,2021,El Salvador,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Woyitech.com,2005,China,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+Innovacio Technologies,2019,India,0,"[0, 1, 1, -, -, -]",0 (0 - 0) *,-,Not Detected
+Machine Learning Solutions,2018,Italy,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Boostalgo,2015,United States,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+AROUSAL Tech.,2013,Japan,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Spectra Analytics,2014,United Kingdom,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+AritaWeb Inc.,2015,United States,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Globe Geosolution,2014,India,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected
+Lipon Technologies,2021,India,1,"[0, 0, 0, -, -, -]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Alexander Thamm,2012,Germany,1,"[0, 0, 1, 2, 7, 17]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+AI Research,2018,United States,2,"[0, 0, 1, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+LinkUp Studio,2013,Ukraine,2,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Amplient Labs,2016,United States,2,"[0, 0, 1, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Webpragma,2004,United States,2,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Element AI,2016,Canada,2,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+EXCEEDDATA,2015,China,2,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Resileo,2014,India,2,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Makes.ai,2020,Brazil,2,"[0, 0, 0, 0, 1, 2]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Data Cowboys,2014,United States,2,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Exometrics,2016,United Kingdom,2,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Kantic Analytics,2020,France,2,"[0, 1, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+aiso-lab,2017,Unknown,2,"[0, 0, 1, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Biz Digital Connection,2014,Colombia,0,"[0, 0, 0, 0, 0, 0]",0 (0 - 0) *,-,Not Detected
+Pathway Intelligence,2005,Unknown,2,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Albitech Consulting,2008,Finland,2,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Stowe Research International,1998,United States,2,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Intrinsic Algorithm,2001,United States,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+HubThunder,2015,Canada,1,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+"Strategic Machine, Inc.",,Unknown,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+AITN,2014,United States,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Knowm,2002,United States,1,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Gen Y Solutions,2013,Unknown,1,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+TED Consulting,2016,France,1,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Pttrner,2021,Japan,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Developower,1990,United States,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+StatHack,2021,Japan,1,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+CantabPi,2017,United Kingdom,1,"[0, 2, 0, 0, 0, 1]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+eoda,2010,Germany,1,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+Tarah AI,2010,India,1,"[0, 0, 0, 0, 1, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+exvy,2017,United States,1,"[0, 0, 1, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Kapahi Industries,2018,India,10,"[0, 0, 0, 0, 0, 0]",0 (0 - 0),0.00% (0.00% - 0.00%),Not Detected
+GRPS Lab,2018,India,28,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.57%),Non-zero
+IntelligiChain,2017,United States,11,"[0, 0, 0, 0, 0, 2]",0 (0 - 1),0.00% (0.00% - 9.09%),Non-zero
+Pitt Technology Group,1991,United States,34,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 2.94%),Non-zero
+Searchmetrics,2005,United States,50,"[0, 0, 1, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 4.00%),Non-zero
+HackSoft,2014,Bulgaria,46,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 2.17%),Non-zero
+Tapptitude,2013,Romania,45,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 2.22%),Non-zero
+Netguru,2008,Poland,43,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 4.65%),Non-zero
+Objetiva Solução,2009,Brazil,42,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 2.38%),Non-zero
+EuroCC,2008,Spain,42,"[0, 1, 8, -, -, -]",0 (0 - 3) *,1.90% (0.00% - 7.62%),Possible
+League of Digital Economy,2001,Russia,38,"[0, 0, 0, 0, 0, 1]",0 (0 - 1),0.00% (0.00% - 2.63%),Non-zero
+Ventagium Data Consulting,2017,Mexico,38,"[0, 1, 0, 0, 0, 1]",0 (0 - 1),0.00% (0.00% - 2.63%),Non-zero
+3Alica,2010,United States,38,"[0, 2, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 5.26%),Non-zero
+Archiot,2018,India,38,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 2.63%),Non-zero
+Eigen,2016,China,36,"[0, 1, 0, -, -, -]",0 (0 - 2) *,2.22% (0.00% - 6.67%),Possible
+Beeby Clark+Meyler,2005,United States,35,"[0, 2, 0, -, -, -]",0 (0 - 2) *,2.29% (0.00% - 6.86%),Possible
+Perfsol,2018,Ukraine,33,"[1, 1, 1, -, -, -]",0 (0 - 2) *,2.42% (0.00% - 7.27%),Possible
+Systemware Innovation,1978,Canada,26,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+RCI Analytics Intelligence,1989,Brazil,32,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.12%),Non-zero
+Kaeyros Analytics,2019,Germany,31,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.23%),Non-zero
+Siali,2018,Unknown,31,"[0, 4, 0, 0, 0, 2]",0 (0 - 2),0.00% (0.00% - 6.45%),Non-zero
+Bys Grup,2010,Turkey,30,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.33%),Non-zero
+Datapy,2019,France,29,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.45%),Non-zero
+XCALE Tech,2016,Spain,29,"[0, 0, 2, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.45%),Non-zero
+NuAIg AI Consulting,2020,United States,29,"[1, 1, 2, 0, 0, 2]",0 (0 - 2),0.00% (0.00% - 6.90%),Non-zero
+Chase Consultancy Services,2006,India,29,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Lucient,2002,United States,27,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 3.70%),Non-zero
+Chipside,2003,United Kingdom,27,"[0, 0, 0, 0, 1, 1]",0 (0 - 2),0.00% (0.00% - 7.41%),Non-zero
+Jaam Automation,2021,United Kingdom,26,"[0, 0, 1, 1, 1, 1]",0 (0 - 2),0.00% (0.00% - 7.69%),Non-zero
+Droids Agency,2017,Denmark,26,"[1, 2, 1, 0, 1, 3]",0 (0 - 2),0.00% (0.00% - 7.69%),Non-zero
+ESSI Integrated Technologies,2003,India,50,"[0, 1, 2, -, -, -]",0 (0 - 3) *,1.60% (0.00% - 6.40%),Possible
+etalytics,2020,Germany,51,"[0, 0, 1, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.92%),Non-zero
+CREA pro,2010,Slovenia,52,"[1, 1, 1, -, -, -]",0 (0 - 3) *,1.54% (0.00% - 6.15%),Possible
+Wednesday Solutions,2020,India,55,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.64%),Non-zero
+Physics,2021,Belgium,47 000,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+PricewaterhouseCoopers,1998,United Kingdom,5 100,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Lucent Technologies,,United States,1 000,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+NEXTGEN,2010,United States,167,"[0, 0, 1, -, -, -]",0 (0 - 3) *,0.48% (0.00% - 1.92%),Possible
+Hcube Conseil,2018,Algeria,140,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.43%),Non-zero
+INT,1999,United States,140,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.43%),Non-zero
+Dragonfly,2018,United Kingdom,134,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.49%),Non-zero
+Intelliarts,1999,Ukraine,113,"[0, 0, 1, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.77%),Non-zero
+InfoPower,1995,Taiwan,112,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.79%),Non-zero
+Dextra,1995,Spain,109,"[0, 1, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.83%),Non-zero
+STME,1982,Saudi Arabia,109,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.83%),Non-zero
+Probe Group,1979,Australia,107,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.87%),Non-zero
+GOX,2006,United Kingdom,103,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 1.94%),Non-zero
+Metric,2019,Armenia,94,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+MojoTech,2008,United States,80,"[0, 0, 1, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 2.50%),Non-zero
+Techspert,2016,United Kingdom,73,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+ReqPOOL,2001,Austria,71,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+TeamOne Group,2009,China,71,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 2.82%),Non-zero
+Exposit,2012,Poland,66,"[0, 1, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.03%),Non-zero
+TechSource,1998,United States,66,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.03%),Non-zero
+VS Data,2000,Brazil,64,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.12%),Non-zero
+Exposé,2016,Australia,61,"[0, 0, 4, 0, 0, 1]",0 (0 - 2),0.00% (0.00% - 3.28%),Non-zero
+Partnership on AI,2016,United States,61,"[0, 0, 5, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.28%),Non-zero
+LaunchPad Lab,2012,United States,59,"[0, 0, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.39%),Non-zero
+Tagtoo Technology,2013,Taiwan,56,"[0, 1, 0, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 3.57%),Non-zero
+Bravinci,2020,Netherlands,26,"[0, 0, 3, 0, 0, 1]",0 (0 - 1),0.00% (0.00% - 3.85%),Non-zero
+IceApple Technology Solutions,2020,India,24,"[0, 0, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 4.17%),Non-zero
+Analytics Town,2016,United States,11,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 9.09%),Non-zero
+Business Data Solutions,2013,Chile,13,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 7.69%),Non-zero
+MindTitan,2016,Estonia,16,"[0, 3, 1, -, -, -]",0 (0 - 2) *,5.00% (0.00% - 15.00%),Possible
+Priority Technologies,2015,India,16,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+TechnoPro India,2019,India,15,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 6.67%),Non-zero
+Xpert Data Works,2013,United States,15,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 6.67%),Non-zero
+craftworks,2014,Austria,15,"[0, 0, 0, 0, 0, 1]",0 (0 - 1),0.00% (0.00% - 6.67%),Non-zero
+Seedbox,2020,Germany,15,"[1, 1, 1, -, -, -]",0 (0 - 1) *,5.33% (0.00% - 10.67%),Possible
+AITIL,2004,Peru,15,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 6.67%),Non-zero
+Sigma Software,2002,Ukraine,15,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Plantech,2021,United States,14,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 7.14%),Non-zero
+Cybersift,2017,United Kingdom,14,"[0, 0, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 7.14%),Non-zero
+Pentadata Infokom Persada,2007,Indonesia,14,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 7.14%),Non-zero
+TalenTech Digital,2017,United States,14,"[0, 0, 2, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 7.14%),Non-zero
+idalab,2016,Germany,13,"[0, 2, 0, 0, 1, 1]",0 (0 - 1),0.00% (0.00% - 7.69%),Non-zero
+ITsPeople,2016,Netherlands,23,"[0, 1, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 4.35%),Non-zero
+NİBGAT®,2010,Turkey,12,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+Isazi Consulting,2012,South Africa,12,"[1, 1, 1, -, -, -]",0 (0 - 1) *,0.00% (0.00% - 13.33%),Non-zero
+Latam Digital,2017,Panama,12,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+AI Superior,2019,Germany,12,"[0, 1, 5, 0, 1, 1]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+Saige Research,2017,South Korea,12,"[1, 0, 1, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 6.67%),Non-zero
+Irrevo,2005,United States,12,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+Sharpware,2020,Turkey,12,"[0, 0, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+SR International,2002,United States,12,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+OVERCODE,2023,Unknown,12,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+Augur IT Consulting,2015,India,12,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 8.33%),Non-zero
+Gamax Laboratory Solutions,1996,Hungary,11,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+The Moonshot Factory,,United States,11,"[0, 0, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 9.09%),Non-zero
+Rotunda Solutions,2014,United States,16,"[1, 0, 3, 0, 1, 1]",0 (0 - 1),0.00% (0.00% - 6.25%),Non-zero
+pims.ai,1972,United Kingdom,16,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+lexoro,2017,Germany,16,"[1, 1, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 6.25%),Non-zero
+Projak Infotech,2016,India,16,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 6.25%),Non-zero
+Cosmos Thrace,2019,Bulgaria,23,"[0, 1, 1, 0, 0, 1]",0 (0 - 1),0.00% (0.00% - 4.35%),Non-zero
+Softtact,2003,India,23,"[0, 0, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 4.35%),Non-zero
+Monadical,2006,United States,23,"[0, 0, 3, 1, 1, 1]",0 (0 - 2),0.00% (0.00% - 8.70%),Non-zero
+Digital Strategy Innovation,2020,Italy,22,"[0, 4, 6, 0, 0, 1]",0 (0 - 1),0.00% (0.00% - 4.55%),Non-zero
+Alltegrio,2012,United Kingdom,22,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 4.55%),Non-zero
+Rare Mile Technologies,2011,India,22,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 4.55%),Non-zero
+Grenoble Partners,,United States,21,"[0, 2, 1, 0, 1, 1]",0 (0 - 2),0.00% (0.00% - 9.52%),Non-zero
+IBM Consulting,1995,United States,21,"[0, 3, 0, -, -, -]",0 (0 - 3) *,3.81% (0.00% - 15.24%),Possible
+Total Synergy Consulting,1988,India,21,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+SpecTal,1999,United States,20,"[0, 2, 0, -, -, -]",0 (0 - 2) *,4.00% (0.00% - 12.00%),Possible
+Kifwat India,2018,India,20,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.00%),Non-zero
+ISB Optimus,2011,South Africa,20,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.00%),Non-zero
+Austin Technology,2012,Australia,20,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.00%),Non-zero
+The Idea Works,1981,United States,20,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+SoftShark,2021,Armenia,19,"[0, 0, 1, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.26%),Non-zero
+Data Innovation Labs,2018,United States,19,"[0, 0, 0, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 0.00%),Not Detected
+Tensorleap,2020,Israel,19,"[1, 5, 1, 0, 1, 2]",0 (0 - 2),0.00% (0.00% - 10.53%),Non-zero
+onepredict,2016,South Korea,19,"[1, 2, 2, 0, 0, 3]",0 (0 - 1),0.00% (0.00% - 5.26%),Non-zero
+CourtCorrect,2019,United Kingdom,18,"[0, 0, 2, -, -, -]",0 (0 - 0) *,0.00% (0.00% - 4.44%),Non-zero
+Miracle Finland,2007,Finland,18,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.56%),Non-zero
+Dain,2023,United States,18,"[0, 4, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.56%),Non-zero
+Spark Wave,2016,United States,18,"[0, 0, 3, 0, 0, 0]",0 (0 - 2),0.00% (0.00% - 11.11%),Non-zero
+5ONE Analytics,2015,India,17,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.88%),Non-zero
+Hexafold Technologies,2022,India,17,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.88%),Non-zero
+Lund&Bendsen,2001,Denmark,17,"[0, 0, 0, 0, 0, 0]",0 (0 - 1),0.00% (0.00% - 5.88%),Non-zero
+Computer Business System Research,1975,Japan,0,"[0, 0, 0, -, -, -]",0 (0 - 0) *,-,Not Detected

@@ -1,0 +1,117 @@
+# ML Headcount Pipeline Configuration
+# Default configuration matching original code parameters
+
+# KeyBERT keyword extraction parameters
+keybert_extraction:
+  model_name: "Salesforce/SFR-Embedding-Mistral"
+  batch_size: 1024  # Balanced for A100-40GB memory
+  max_seq_length: 256
+  top_n: 30
+  ngram_max: 4
+
+# KeyBERT clustering parameters
+keybert_clustering:
+  min_cluster_size: 3
+  n_clusters: null  # Dynamic calculation: max(2, min(len(keywords) // 5, 40))
+
+# TF-IDF parameters
+tfidf:
+  ngram_range: [1, 4]
+  max_features: 5000
+  min_df: 2
+  max_df: 0.85
+
+# Discriminative keywords parameters
+discriminative_keywords:
+  min_score: 0.6
+  max_keywords: 100
+
+# Keyword filtering thresholds
+keyword_filtering:
+  strict_threshold: 0.8
+  broad_threshold: 0.5
+
+# Dawid-Skene dataset filtering parameters
+dawid_skene_filtering:
+  max_items: 500000  # Maximum number of profiles to include in analysis
+  max_companies: 500  # Maximum number of companies to include
+  min_profiles: 0  # Minimum profiles per company to be included
+
+# Latent covariance diagnostic parameters
+latent_covariance_diagnostic:
+  min_employees: 10  # Minimum employees per company to estimate covariance
+
+# Data paths (relative to project root)
+data_paths:
+  data_dir: "raw_data"
+  output_dir: "outputs"
+
+# LinkedIn datasets configuration
+linkedin_datasets:
+  enable_85k_profiles: true  # 85k profiles (main set)
+  enable_big_consulting: true  # 49k profiles (big consulting companies)
+  enable_comparator: true  # 115k profiles (comparator set)
+
+fake_data:
+  enable: false
+  test_data:
+    num_profiles: 30000
+    num_companies: 100
+    company_prevalences:
+      log_mean: -1.5  # Mean in log10 space (approximately 0.032)
+      log_std: 0.8    # Standard deviation in log10 space
+      log_min: -3.0   # Lower truncation in log10 space (1e-3)
+      log_max: 0.0    # Upper truncation in log10 space (1.0)
+  validation_data:
+    num_profiles: 1000
+    observed_positive_rate: 0.3  # Target overall positive rate
+  annotators:
+    filter_broad_yes:
+      sensitivity: 0.8
+      specificity: 0.6
+    filter_strict_no:
+      sensitivity: 0.7
+      specificity: 0.5
+    filter_broad_yes_strict_no:
+      sensitivity: 0.7
+      specificity: 0.9
+    llm_gemini_2_5_flash:
+      sensitivity: 0.9
+      specificity: 0.65
+    llm_sonnet_4:
+      sensitivity: 0.75
+      specificity: 0.5
+    llm_gpt_5_mini:
+      sensitivity: 0.9
+      specificity: 0.9
+
+
+# Plotting configuration
+plotting:
+  confidence_interval_width: 0.80  # Width for confidence intervals (0.80 = 10% - 90%)
+
+# Correlated probit bootstrap analysis parameters
+correlated_probit_bootstrap:
+  n_samples: 64  # Number of bootstrap iterations per machine (100 × 10 machines = 1000 total)
+  n_machines: 16  # Number of machines to use for parallel processing
+  timeout: 7200  # Timeout in seconds for each machine
+  prior_alpha: 2.0  # Alpha parameter for Beta prior on prevalence (class prior)
+  prior_beta: 20.0  # Beta parameter for Beta prior on prevalence (class prior)
+  # prior mean = alpha / (alpha + beta)
+
+# Synthetic data generation parameters
+synthetic_data:
+  enable: true  # Enable synthetic data generation for companies with only aggregates
+  use_total_headcount: true  # Use total_headcount for n_employees in synthetic data generation
+
+# Execution configuration
+execution:
+  use_remote: true  # Use Modal Labs for expensive operations
+  disable_cache: false  # Enable Hamilton caching
+  enable_telemetry: false  # Enable Hamilton UI telemetry
+  project_id: "1"  # Hamilton project ID (required if enable_telemetry=true)
+  dag_name: "ml_headcount_pipeline"  # DAG name for telemetry
+  telemetry_tags:  # Additional tags for telemetry
+    environment: "production"
+    team: "ML_HEADCOUNT"
+

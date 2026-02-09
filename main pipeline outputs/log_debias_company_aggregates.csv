@@ -1,0 +1,404 @@
+company_id,filter_broad_yes,filter_strict_no,filter_broad_yes_strict_no,gemini_total_accepted,gpt5_total_accepted,claude_total_accepted,company_name,Total Headcount,max_headcount,max_population,Stage Reached,category,Organization Name
+tata-consultancy-services,3200.0,5400.0,305.0,,,,Tata Consultancy Services,640000,True,True,,,Tata Consultancy Services
+accenture,3500.0,3400.0,186.0,,,,Accenture,550000,True,True,,,Accenture
+deloitte,3700.0,2200.0,171.0,,,,Deloitte,430000,True,True,,,Deloitte
+cognizant,1600.0,1300.0,85.0,,,,Cognizant,300000,True,True,,,Cognizant
+ibm,3900.0,2300.0,443.0,,,,IBM,290000,True,True,,,IBM
+capgemini,1500.0,2100.0,103.0,,,,Capgemini,260000,True,True,,,Capgemini
+genpact,582.0,384.0,28.0,,,,Genpact,130000,True,True,,,Genpact
+357,97.0,31.0,5.0,,,,WA,87000,True,True,,,WA
+fusion-bpo-services,312.0,178.0,48.0,,,,Fusion,85000,True,True,,,Fusion
+1374,161.0,166.0,21.0,,,,Fujitsu,62000,True,True,,,Fujitsu
+sutherland-global,90.0,47.0,9.0,,,,Sutherland,58000,True,True,,,Sutherland
+physicsh2020,0.0,0.0,0.0,,,,Physics,47000,True,False,,,Physics
+supply-solutions---procurement-consulting-services,0.0,0.0,0.0,,,,Supply Solutions,47000,True,False,,,Supply Solutions
+booz-allen-hamilton,715.0,202.0,46.0,281.0,93.0,25.0,Booz Allen Hamilton,41000,True,True,,,Booz Allen Hamilton
+and-technology-research-ltd.,0.0,0.0,0.0,,,,AND Technology Research,38000,True,False,,,AND Technology Research
+208401,92.0,199.0,9.0,,,,FPT Software,26000,True,True,,,FPT Software
+publicissapient,356.0,151.0,20.0,150.0,31.0,2.0,Publicis Sapient,21000,True,True,,,Publicis Sapient
+avanade,200.0,174.0,11.0,106.0,22.0,2.0,Avanade,17000,True,True,,,Avanade
+swisscom,87.0,70.0,9.0,66.0,34.0,6.0,Swisscom,15000,True,True,,,Swisscom
+nec,54.0,74.0,22.0,102.0,43.0,24.0,NEC Corporation,11000,True,True,,,NEC Corporation
+yandex,232.0,521.0,67.0,528.0,291.0,142.0,Yandex,9900,True,True,,,Yandex
+ipe-maintenance-et-solutions-informatique,10.0,10.0,0.0,,,,ipe,9400,True,True,,,ipe
+encorainc,83.0,57.0,5.0,,,,Encora,7200,True,True,,,Encora
+scaleai,594.0,221.0,68.0,326.0,179.0,82.0,Scale AI,5800,True,True,,,Scale AI
+lgcns,40.0,63.0,11.0,98.0,41.0,13.0,LG CNS,5400,True,True,,,LG CNS
+pwc,0.0,0.0,0.0,,,,PricewaterhouseCoopers,5100,True,False,,,PricewaterhouseCoopers
+the-ifish-group-inc-,13.0,6.0,0.0,,,,IFG,4800,True,True,,,IFG
+saitsrl,37.0,3.0,0.0,,,,SAIT,4800,True,True,,,SAIT
+cas-concepts-and-solutions-ag,30.0,9.0,2.0,,,,CAS,4600,True,True,,,CAS
+quantiphi,279.0,195.0,23.0,188.0,92.0,17.0,Quantiphi,3800,True,True,,,Quantiphi
+bairesdev,60.0,20.0,0.0,28.0,12.0,2.0,BairesDev,3100,True,True,,,BairesDev
+kainos,26.0,16.0,0.0,5.0,3.0,,Kainos,2900,True,True,,,Kainos
+bcg-x,219.0,69.0,15.0,103.0,45.0,12.0,BCG X,2600,True,True,,,BCG X
+tech-valley-tvy,0.0,0.0,0.0,,,,Tech Valley,2300,True,False,,,Tech Valley
+eleks,5.0,12.0,1.0,3.0,,,ELEKS,1900,True,True,,,ELEKS
+65,16.0,24.0,1.0,,,,twoday,1900,True,True,,,twoday
+10921,6.0,7.0,0.0,,,,Itransition,1500,True,True,,,Itransition
+galaxe-solutions,4.0,9.0,0.0,,,,GalaxE.Solutions,1300,True,True,,,GalaxE.Solutions
+navercloud,44.0,57.0,18.0,135.0,107.0,78.0,Naver Cloud,1300,True,True,,,Naver Cloud
+unique-micro-design-pty-ltd,11.0,6.0,3.0,,,,UMD,1300,True,True,,,UMD
+g-research,69.0,43.0,19.0,49.0,23.0,16.0,G-Research,1100,True,True,,,G-Research
+coherent-solutions,6.0,7.0,1.0,4.0,2.0,,Coherent Solutions,1100,True,True,,,Coherent Solutions
+515,0.0,0.0,0.0,,,,Lucent Technologies,1000,True,False,,,Lucent Technologies
+facultyai,83.0,39.0,15.0,48.0,41.0,7.0,Faculty,939,True,True,,,Faculty
+cohere-ai,187.0,75.0,45.0,136.0,112.0,85.0,Cohere,831,True,True,,,Cohere
+cambridge-consultants,26.0,14.0,3.0,27.0,11.0,3.0,Cambridge Consultants,794,True,True,,,Cambridge Consultants
+cerebras-systems,142.0,71.0,22.0,142.0,76.0,69.0,Cerebras Systems,726,True,True,,,Cerebras Systems
+akvelon,13.0,10.0,0.0,5.0,2.0,1.0,Akvelon,688,True,True,,,Akvelon
+166110,39.0,10.0,7.0,,,,Science Systems and Applications,652,True,True,,,Science Systems and Applications
+coexya,3.0,15.0,1.0,7.0,3.0,1.0,Coexya,648,True,True,,,Coexya
+polestar-analytics,13.0,13.0,2.0,2.0,1.0,,Polestar Analytics,647,True,True,,,Polestar Analytics
+bespinglobal,1.0,4.0,1.0,,,,Bespin Global,605,True,False,,,Bespin Global
+omdena,214.0,46.0,65.0,32.0,13.0,2.0,Omdena,556,True,True,,,Omdena
+quantumblack,107.0,33.0,10.0,52.0,27.0,4.0,QuantumBlack,523,True,True,,,QuantumBlack
+stratpoint,5.0,6.0,1.0,4.0,1.0,,Stratpoint Technologies,522,True,True,,,Stratpoint Technologies
+presight-ai,27.0,10.0,2.0,25.0,13.0,3.0,Presight,510,True,True,,,Presight
+datascience.co.il,116.0,49.0,22.0,,,,Data Science Group,490,True,True,,,Data Science Group
+saxonai,5.0,8.0,0.0,3.0,1.0,,Saxon AI,484,True,True,,,Saxon AI
+sambanova,68.0,42.0,11.0,63.0,21.0,15.0,SambaNova Systems,474,True,True,,,SambaNova Systems
+mistralai,76.0,51.0,31.0,93.0,62.0,59.0,Mistral AI,442,True,True,,,Mistral AI
+megvii%E6%97%B7%E8%A7%86,12.0,21.0,7.0,107.0,65.0,34.0,MEGVII,428,True,True,,,MEGVII
+technology-control-co-,5.0,1.0,0.0,6.0,2.0,1.0,Technology Control Corporation,418,True,True,,,Technology Control Corporation
+46119?trk=tyah&trkInfo=tas%3Acharter%20g%2Cidx%3A1-1-1,3.0,0.0,0.0,,,,Charter Global,395,True,False,,,Charter Global
+estsoft-corp,0.0,0.0,0.0,10.0,8.0,2.0,ESTsoft,388,True,True,,,ESTsoft
+vrizeinc,2.0,4.0,1.0,1.0,,,VRIZE,373,True,False,,,VRIZE
+closer,14.0,8.0,2.0,7.0,1.0,,Closer Consulting,361,True,True,,,Closer Consulting
+redmane-technology,6.0,5.0,0.0,1.0,1.0,,RedMane Technology LLC,351,True,True,,,RedMane Technology LLC
+edvantis,1.0,2.0,0.0,1.0,,,Edvantis,343,True,False,,,Edvantis
+activefence,9.0,10.0,2.0,7.0,3.0,2.0,ActiveFence,334,True,True,,,ActiveFence
+futureweitechnologiesinc.,46.0,11.0,9.0,,,,Futurewei Technologies,327,True,True,,,Futurewei Technologies
+techahead,6.0,2.0,0.0,1.0,,,TechAhead,310,True,True,,,TechAhead
+preferred-networks,49.0,72.0,24.0,106.0,72.0,45.0,Preferred Networks,303,True,True,,,Preferred Networks
+cloud-temple,1.0,5.0,1.0,2.0,1.0,,Cloud Temple,302,True,True,,,Cloud Temple
+kamtech-associates-pvt-ltd,2.0,0.0,0.0,,,,KAMTECH,296,True,False,,,KAMTECH
+beyond-ai,18.0,3.0,1.0,16.0,9.0,,Beyond Limits,295,True,True,,,Beyond Limits
+kyanon,2.0,5.0,1.0,4.0,1.0,,Kyanon Digital,294,True,True,,,Kyanon Digital
+lighton,6.0,5.0,0.0,13.0,8.0,5.0,LightOn,287,True,True,,,LightOn
+software-systems-llc,0.0,0.0,0.0,,,,Software Systems,264,True,False,,,Software Systems
+q_agency,2.0,0.0,0.0,2.0,1.0,,Q agency,261,True,False,,,Q agency
+siloai,85.0,44.0,19.0,,,,Silo.AI,239,True,True,,,Silo.AI
+quantco,58.0,30.0,14.0,58.0,37.0,23.0,QuantCo,237,True,True,,,QuantCo
+infocusp,38.0,17.0,8.0,30.0,17.0,2.0,InFocusp,228,True,True,,,InFocusp
+pyramid-cgi,0.0,0.0,0.0,,,,Pyramid Consulting Group,226,True,False,,,Pyramid Consulting Group
+sieger-consulting,1.0,1.0,0.0,,,,Sieger,220,True,False,,,Sieger
+mobcoder-llc,3.0,4.0,0.0,,,,Mobcoder,219,True,False,,,Mobcoder
+leewayhertz-technologies,9.0,5.0,0.0,7.0,,,LeewayHertz Technologies,211,True,True,,,LeewayHertz Technologies
+megamax-services,0.0,2.0,0.0,,,,Megamax Services,210,True,False,,,Megamax Services
+avertra,0.0,1.0,0.0,1.0,,,Avertra,207,True,False,,,Avertra
+agency-enterprise-studio,35.0,4.0,3.0,17.0,11.0,7.0,AE Studio,205,True,True,,,AE Studio
+ai-consult,0.0,1.0,0.0,,,,AI Consult,203,True,False,,,AI Consult
+binariks,0.0,3.0,0.0,,,,Binariks,203,True,False,,,Binariks
+xitasogmbh,5.0,12.0,2.0,10.0,5.0,2.0,XITASO,198,True,True,,,XITASO
+upstageai,16.0,23.0,7.0,46.0,27.0,19.0,Upstage,187,True,True,,,Upstage
+abacusai,25.0,25.0,8.0,22.0,9.0,3.0,Abacus.AI,185,True,True,,,Abacus.AI
+schafer-corporation,0.0,0.0,0.0,2.0,,,Schafer Corporation,176,True,False,,,Schafer Corporation
+elder-research-inc-,23.0,6.0,0.0,,,,Elder Research,170,True,True,,,Elder Research
+auriznco,9.0,5.0,1.0,9.0,4.0,1.0,Aurizn,169,True,True,,,Aurizn
+nextgeninnovationlabs,1.0,0.0,0.0,,,,NEXTGEN,167,True,False,,,NEXTGEN
+3157313,12.0,19.0,1.0,,,,Tooploox,163,True,True,,,Tooploox
+1833,13.0,24.0,2.0,,,,Euranova,159,True,True,,,Euranova
+sahanasystemltd,4.0,7.0,1.0,3.0,,,Sahana System,158,True,True,,,Sahana System
+mp-data-ds,14.0,33.0,4.0,18.0,12.0,,MP DATA,145,True,True,,,MP DATA
+unit8.co,23.0,15.0,3.0,,,,Unit8,141,True,True,,,Unit8
+hcube-conseil,0.0,0.0,0.0,,,,Hcube Conseil,140,True,False,,,Hcube Conseil
+intinc,0.0,0.0,0.0,,,,INT,140,True,False,,,INT
+wearedragonfly,0.0,0.0,0.0,,,,Dragonfly,134,True,False,,,Dragonfly
+spatialedge,23.0,21.0,6.0,15.0,,,Spatialedge,134,True,True,,,Spatialedge
+mi-6-ltd,0.0,19.0,6.0,6.0,,,MI-6,130,True,True,,,MI-6
+ml6team,14.0,19.0,0.0,32.0,17.0,4.0,ML6,130,True,True,,,ML6
+konverge-ai,15.0,6.0,1.0,8.0,,,Konverge.AI,130,True,True,,,Konverge.AI
+h.i.-iberia-ingenier-a-y-proyectos,4.0,9.0,2.0,10.0,7.0,,HI Iberia,118,True,True,,,HI Iberia
+intelliarts,1.0,0.0,0.0,,,,Intelliarts,113,True,False,,,Intelliarts
+infopower-corporation,0.0,0.0,0.0,,,,InfoPower,112,True,False,,,InfoPower
+dextra-digital,0.0,1.0,0.0,,,,Dextra,109,True,False,,,Dextra
+stme,0.0,0.0,0.0,,,,STME,109,True,False,,,STME
+5390194,19.0,19.0,1.0,,,,deepsense.ai,108,True,True,,,deepsense.ai
+theprobegroup,0.0,0.0,0.0,,,,Probe Group,107,True,False,,,Probe Group
+gox-ltd,0.0,0.0,0.0,,,,GOX,103,True,False,,,GOX
+fiddler-ai,13.0,5.0,2.0,5.0,1.0,1.0,Fiddler AI,102,True,True,,,Fiddler AI
+tryolabs,13.0,21.0,3.0,24.0,16.0,5.0,Tryolabs,98,True,True,,,Tryolabs
+xenonstack,3.0,2.0,0.0,2.0,,,XenonStack,96,True,False,,,XenonStack
+closeloop-inc-,3.0,0.0,0.0,1.0,,,Closeloop Technologies,95,True,False,,,Closeloop Technologies
+metric-am,0.0,0.0,0.0,,,,Metric,94,True,False,,,Metric
+qvik-oy,3.0,1.0,0.0,1.0,,,Qvik,92,True,False,,,Qvik
+altrium-io,6.0,2.0,0.0,4.0,,,Altrium,91,True,True,,,Altrium
+xomnia,11.0,10.0,1.0,5.0,4.0,,Xomnia,91,True,True,,,Xomnia
+cogent-labs,4.0,1.0,0.0,1.0,,,Cogent Labs,90,True,False,,,Cogent Labs
+15177291,45.0,21.0,8.0,,,,Layer 6 AI,87,True,True,,,Layer 6 AI
+daredata-engineering,23.0,8.0,1.0,,,,DareData,85,True,True,,,DareData
+ntt-research,12.0,8.0,7.0,18.0,7.0,3.0,NTT Research,85,True,True,,,NTT Research
+creatica-gmbh,0.0,0.0,0.0,1.0,,,Creatica,84,True,False,,,Creatica
+halfspace,12.0,12.0,0.0,10.0,6.0,,Halfspace,81,True,True,,,Halfspace
+guardians-infotech-llc,0.0,0.0,0.0,,,,Guardians Infotech,81,True,False,,,Guardians Infotech
+xaion-data-inc,0.0,0.0,0.0,,,,Xaion Data,80,True,False,,,Xaion Data
+mojotech,1.0,0.0,0.0,,,,MojoTech,80,True,False,,,MojoTech
+liquid-ai-inc,28.0,20.0,11.0,24.0,25.0,21.0,Liquid AI,79,True,True,,,Liquid AI
+93,1.0,1.0,0.0,,,,247 Labs,76,True,False,,,247 Labs
+visium-sa,13.0,3.0,0.0,9.0,7.0,7.0,Visium,75,True,True,,,Visium
+10533787,0.0,0.0,0.0,,,,Techspert,73,True,False,,,Techspert
+enthought,17.0,6.0,5.0,11.0,4.0,1.0,Enthought,72,True,True,,,Enthought
+reqpool-gmbh,0.0,0.0,0.0,,,,ReqPOOL,71,True,False,,,ReqPOOL
+teamonegroup,0.0,0.0,0.0,,,,TeamOne Group,71,True,False,,,TeamOne Group
+addepto,10.0,7.0,1.0,2.0,2.0,,Addepto,68,True,True,,,Addepto
+exposit,0.0,1.0,0.0,,,,Exposit,66,True,False,,,Exposit
+techsource-inc,0.0,0.0,0.0,,,,TechSource,66,True,False,,,TechSource
+orcawise,10.0,0.0,0.0,10.0,3.0,,Orcawise,65,True,True,,,Orcawise
+fs-studio,0.0,0.0,0.0,2.0,,,FS Studio,64,True,False,,,FS Studio
+vsdata,0.0,0.0,0.0,,,,VS Data,64,True,False,,,VS Data
+inflectionai,12.0,6.0,1.0,14.0,11.0,9.0,Inflection AI,63,True,True,,,Inflection AI
+expos-data-exposed,4.0,0.0,0.0,1.0,,,Exposé,61,True,False,,,Exposé
+partnershipai,5.0,0.0,0.0,,,,Partnership on AI,61,True,True,,,Partnership on AI
+indata-labs,4.0,5.0,0.0,5.0,4.0,,InData Labs,59,True,True,,,InData Labs
+merantix-momentum,12.0,6.0,4.0,12.0,9.0,1.0,Merantix Momentum,59,True,True,,,Merantix Momentum
+launchpad-lab,0.0,0.0,0.0,,,,LaunchPad Lab,59,True,False,,,LaunchPad Lab
+markovate,5.0,0.0,0.0,1.0,,,Markovate Inc.,57,True,True,,,Markovate Inc.
+moov-ai,5.0,1.0,0.0,5.0,2.0,1.0,Moov AI,57,True,True,,,Moov AI
+tagtoo,0.0,1.0,0.0,,,,Tagtoo Technology,56,True,False,,,Tagtoo Technology
+info-strategic,4.0,1.0,0.0,2.0,1.0,,Info Strategic,56,True,False,,,Info Strategic
+wednesday-solutions,0.0,0.0,0.0,,,,Wednesday Solutions,55,True,False,,,Wednesday Solutions
+crea-pro,1.0,1.0,1.0,,,,CREA pro,52,True,False,,,CREA pro
+fraktal-as,1.0,0.0,0.0,1.0,1.0,,Fraktal Norge,52,True,False,,,Fraktal Norge
+neurosys,0.0,2.0,1.0,1.0,2.0,2.0,NeuroSYS,52,True,False,,,NeuroSYS
+recursive-ai,7.0,3.0,1.0,5.0,4.0,3.0,Recursive,52,True,True,,,Recursive
+etalytics,1.0,0.0,0.0,,,,etalytics,51,True,False,,,etalytics
+bigthinkcode,2.0,1.0,1.0,1.0,,,BigThinkCode Technologies,51,True,False,,,BigThinkCode Technologies
+13626360,2.0,1.0,0.0,,,,ESSI Integrated Technologies,50,True,False,,,ESSI Integrated Technologies
+searchmetrics-inc,1.0,0.0,0.0,,,,Searchmetrics,50,True,False,,,Searchmetrics
+latticeflow,6.0,12.0,3.0,,,,LatticeFlow,48,True,True,,,LatticeFlow
+hacksoft,0.0,0.0,0.0,,,,HackSoft,46,True,False,,,HackSoft
+tapptitude,0.0,0.0,0.0,,,,Tapptitude,45,True,False,,,Tapptitude
+winstars-tecnology,1.0,6.0,2.0,,,,R&D Center WINSTARS.AI,43,True,True,,,R&D Center WINSTARS.AI
+divedeepai,10.0,3.0,0.0,10.0,5.0,1.0,DiveDeepAI,43,True,True,,,DiveDeepAI
+netguru,0.0,0.0,0.0,,,,Netguru,43,True,False,,,Netguru
+objetivasolucao,0.0,0.0,0.0,,,,Objetiva Solução,42,True,False,,,Objetiva Solução
+fundaci-n-centro-supercomputaci-n-castilla-y-le-n-fcsc-,8.0,1.0,0.0,,,,EuroCC,42,True,True,,,EuroCC
+andro-computational-solutions-llc,4.0,3.0,0.0,4.0,2.0,1.0,ANDRO Computational Solutions,41,True,False,,,ANDRO Computational Solutions
+digitalleague,0.0,0.0,0.0,1.0,,,League of Digital Economy,38,True,False,,,League of Digital Economy
+ventagium,0.0,1.0,0.0,1.0,,,Ventagium Data Consulting,38,True,False,,,Ventagium Data Consulting
+3alica,0.0,2.0,0.0,,,,3Alica,38,True,False,,,3Alica
+orobix-srl,3.0,0.0,1.0,4.0,2.0,1.0,Orobix,38,True,False,,,Orobix
+archiot-digital-solutions-pvt-ltd,0.0,1.0,0.0,,,,Archiot,38,True,False,,,Archiot
+eigen-tech,0.0,1.0,0.0,,,,Eigen,36,True,False,,,Eigen
+123049,0.0,2.0,0.0,,,,Beeby Clark+Meyler,35,True,False,,,Beeby Clark+Meyler
+effixis,7.0,1.0,0.0,8.0,4.0,,Effixis,34,True,True,,,Effixis
+pitt-technology-group,0.0,0.0,0.0,,,,Pitt Technology Group,34,True,False,,,Pitt Technology Group
+statsoft-europe-gmbh,1.0,7.0,1.0,,,,StatSoft,33,True,True,,,StatSoft
+vinai-research,13.0,18.0,1.0,44.0,31.0,18.0,VinAI Research,33,True,True,,,VinAI Research
+applied-data-science,4.0,3.0,0.0,1.0,1.0,,Applied Data Science Partners,33,True,False,,,Applied Data Science Partners
+11351707,11.0,6.0,0.0,,,,Infinia ML,33,True,True,,,Infinia ML
+19004657,1.0,1.0,1.0,,,,Perfsol,33,True,False,,,Perfsol
+rci-analytics-intelligence,0.0,1.0,0.0,,,,RCI Analytics Intelligence,32,True,False,,,RCI Analytics Intelligence
+numlabs,2.0,6.0,0.0,5.0,4.0,1.0,Numlabs,32,True,True,,,Numlabs
+adaptive-ml,8.0,10.0,6.0,8.0,8.0,6.0,Adaptive ML,31,True,True,,,Adaptive ML
+kaeyros-analytics,0.0,0.0,0.0,,,,Kaeyros Analytics,31,True,False,,,Kaeyros Analytics
+siali,0.0,4.0,0.0,2.0,,,Siali,31,True,False,,,Siali
+bysgrup,0.0,0.0,0.0,,,,Bys Grup,30,True,False,,,Bys Grup
+atmo-ai,7.0,6.0,0.0,1.0,1.0,1.0,Atmo,30,True,True,,,Atmo
+datapy,0.0,1.0,0.0,,,,Datapy,29,True,False,,,Datapy
+xcale-consulting,2.0,0.0,0.0,,,,XCALE Tech,29,True,False,,,XCALE Tech
+nuaig,2.0,1.0,1.0,2.0,,,NuAIg AI Consulting,29,True,False,,,NuAIg AI Consulting
+chase-consultancy-services,0.0,0.0,0.0,,,,Chase Consultancy Services,29,True,False,,,Chase Consultancy Services
+grps-lab-private-limited,0.0,0.0,0.0,,,,GRPS Lab,28,True,False,,,GRPS Lab
+datarootlabs,1.0,9.0,1.0,5.0,3.0,,DataRoot Labs,28,True,True,,,DataRoot Labs
+lucientdata,0.0,1.0,0.0,,,,Lucient,27,True,False,,,Lucient
+modulai,14.0,6.0,5.0,12.0,10.0,3.0,Modulai,27,True,True,,,Modulai
+chipside-limited,0.0,0.0,0.0,1.0,1.0,,Chipside,27,True,False,,,Chipside
+jaam-automation,1.0,0.0,0.0,1.0,1.0,1.0,Jaam Automation,26,True,False,,,Jaam Automation
+droidsagency,1.0,2.0,1.0,3.0,1.0,,Droids Agency,26,True,False,,,Droids Agency
+bravinci,3.0,0.0,0.0,1.0,,,Bravinci,26,True,False,,,Bravinci
+407,0.0,0.0,0.0,,,,Systemware Innovation,26,True,False,,,Systemware Innovation
+ml-cube,11.0,11.0,3.0,8.0,3.0,2.0,ML cube,25,True,True,,,ML cube
+lbox-co-ltd,0.0,0.0,0.0,3.0,3.0,2.0,LBox Co,25,True,False,,,LBox Co
+iceapple-technology-solutions,1.0,0.0,0.0,,,,IceApple Technology Solutions,24,True,False,,,IceApple Technology Solutions
+brainpool-ltd,3.0,0.0,0.0,3.0,2.0,1.0,Brainpool AI,24,True,False,,,Brainpool AI
+itspeoplenederland,0.0,1.0,0.0,,,,ITsPeople,23,True,False,,,ITsPeople
+bigdata-republic,4.0,4.0,0.0,4.0,2.0,,BigData Republic,23,True,False,,,BigData Republic
+cosmosthrace,1.0,1.0,0.0,1.0,,,Cosmos Thrace,23,True,False,,,Cosmos Thrace
+softtact,1.0,0.0,0.0,,,,Softtact,23,True,False,,,Softtact
+monadical,3.0,0.0,0.0,1.0,1.0,1.0,Monadical,23,True,False,,,Monadical
+digitalstrategyinnovation,6.0,4.0,0.0,1.0,,,Digital Strategy Innovation,22,True,True,,,Digital Strategy Innovation
+imandra,5.0,0.0,2.0,9.0,3.0,3.0,Imandra,22,True,True,,,Imandra
+alltegrio,0.0,0.0,0.0,,,,Alltegrio,22,True,False,,,Alltegrio
+rare-mile-technologies,0.0,0.0,0.0,,,,Rare Mile Technologies,22,True,False,,,Rare Mile Technologies
+thinkcol-limited,0.0,0.0,0.0,2.0,2.0,,ThinkCol,22,True,False,,,ThinkCol
+grenoblepartners,1.0,2.0,0.0,1.0,1.0,,Grenoble Partners,21,True,False,,,Grenoble Partners
+1262,0.0,3.0,0.0,,,,IBM Consulting,21,True,False,,,IBM Consulting
+inferlink-corporation,6.0,2.0,0.0,6.0,4.0,2.0,InferLink,21,True,True,,,InferLink
+neural-magic,5.0,3.0,2.0,1.0,1.0,1.0,Neural Magic,21,True,True,,,Neural Magic
+2133,0.0,0.0,0.0,,,,Total Synergy Consulting,21,True,False,,,Total Synergy Consulting
+2195,0.0,2.0,0.0,,,,SpecTal,20,True,False,,,SpecTal
+infer-solutions,0.0,1.0,0.0,1.0,,,Infer Solutions,20,True,False,,,Infer Solutions
+kifwat-india,0.0,0.0,0.0,,,,Kifwat India,20,True,False,,,Kifwat India
+isboptimus,0.0,0.0,0.0,,,,ISB Optimus,20,True,False,,,ISB Optimus
+austin-technology,0.0,0.0,0.0,,,,Austin Technology,20,True,False,,,Austin Technology
+the-idea-works-inc.,0.0,0.0,0.0,,,,The Idea Works,20,True,False,,,The Idea Works
+softshark,1.0,0.0,0.0,,,,SoftShark,19,True,False,,,SoftShark
+2721,0.0,0.0,0.0,,,,Data Innovation Labs,19,True,False,,,Data Innovation Labs
+tensorleap,1.0,5.0,1.0,2.0,1.0,,Tensorleap,19,True,True,,,Tensorleap
+onepredict,2.0,2.0,1.0,3.0,,,onepredict,19,True,False,,,onepredict
+amai-gmbh,4.0,3.0,0.0,6.0,3.0,2.0,AMAI,19,True,True,,,AMAI
+29332820,2.0,0.0,0.0,,,,CourtCorrect,18,True,False,,,CourtCorrect
+miracle-finland-oy,0.0,0.0,0.0,,,,Miracle Finland,18,True,False,,,Miracle Finland
+dain-protocol,0.0,4.0,0.0,,,,Dain,18,True,False,,,Dain
+spark-wave,3.0,0.0,0.0,,,,Spark Wave,18,True,False,,,Spark Wave
+5onenalytics,0.0,0.0,0.0,,,,5ONE Analytics,17,True,False,,,5ONE Analytics
+enliteai,2.0,1.0,0.0,1.0,1.0,1.0,EnliteAI,17,True,False,,,EnliteAI
+hexafoldtech,0.0,0.0,0.0,,,,Hexafold Technologies,17,True,False,,,Hexafold Technologies
+lund&bendsen-as,0.0,0.0,0.0,,,,Lund&Bendsen,17,True,False,,,Lund&Bendsen
+projak-infotech-pvt-ltd,0.0,0.0,0.0,,,,Projak Infotech,16,True,False,,,Projak Infotech
+lexoro,1.0,1.0,1.0,,,,lexoro,16,True,False,,,lexoro
+pims-associates-limited,0.0,0.0,0.0,,,,pims.ai,16,True,False,,,pims.ai
+rotunda-solutions,3.0,0.0,1.0,1.0,1.0,,Rotunda Solutions,16,True,False,,,Rotunda Solutions
+nnaisense,3.0,4.0,2.0,5.0,5.0,4.0,NNAISENSE,16,True,True,,,NNAISENSE
+deepneuronic,3.0,7.0,3.0,4.0,3.0,1.0,DeepNeuronic,16,True,True,,,DeepNeuronic
+15213340,1.0,3.0,0.0,,,,MindTitan,16,True,False,,,MindTitan
+prioritytechnologies8,0.0,0.0,0.0,,,,Priority Technologies,16,True,False,,,Priority Technologies
+techno-pro-india,0.0,0.0,0.0,,,,TechnoPro India,15,True,False,,,TechnoPro India
+xpertdataworks,0.0,0.0,0.0,,,,Xpert Data Works,15,True,False,,,Xpert Data Works
+craftworks-gmbh,0.0,0.0,0.0,1.0,,,craftworks,15,True,False,,,craftworks
+seedbox-ventures,1.0,1.0,1.0,,,,Seedbox,15,True,False,,,Seedbox
+aitil,0.0,0.0,0.0,,,,AITIL,15,True,False,,,AITIL
+68326,0.0,0.0,0.0,,,,Sigma Software,15,True,False,,,Sigma Software
+plantechdev,0.0,1.0,0.0,,,,Plantech,14,True,False,,,Plantech
+cybersift.io,1.0,0.0,0.0,,,,Cybersift,14,True,False,,,Cybersift
+pentadata,0.0,0.0,0.0,,,,Pentadata Infokom Persada,14,True,False,,,Pentadata Infokom Persada
+talentech-digital-llc,2.0,0.0,0.0,,,,TalenTech Digital,14,True,False,,,TalenTech Digital
+bds-chile,0.0,0.0,0.0,,,,Business Data Solutions,13,True,False,,,Business Data Solutions
+deepmetis,0.0,0.0,0.0,2.0,1.0,,DeepMetis,13,True,False,,,DeepMetis
+idalab-gmbh,0.0,2.0,0.0,1.0,1.0,,idalab,13,True,False,,,idalab
+nibgat,0.0,0.0,0.0,,,,NİBGAT®,12,True,False,,,NİBGAT®
+2118,1.0,1.0,1.0,,,,Isazi Consulting,12,True,False,,,Isazi Consulting
+latamdigi,0.0,0.0,0.0,,,,Latam Digital,12,True,False,,,Latam Digital
+ai-superior,5.0,1.0,0.0,1.0,1.0,,AI Superior,12,True,True,,,AI Superior
+saige-research,1.0,0.0,1.0,,,,Saige Research,12,True,False,,,Saige Research
+kineo-ai,2.0,1.0,0.0,1.0,1.0,,kineo.ai,12,True,False,,,kineo.ai
+irrevo,0.0,0.0,0.0,,,,Irrevo,12,True,False,,,Irrevo
+sharpware,1.0,0.0,0.0,,,,Sharpware,12,True,False,,,Sharpware
+sr-international-inc,0.0,0.0,0.0,,,,SR International,12,True,False,,,SR International
+overcode.tech,0.0,0.0,0.0,,,,OVERCODE,12,True,False,,,OVERCODE
+augur-it-consulting,0.0,0.0,0.0,,,,Augur IT Consulting,12,True,False,,,Augur IT Consulting
+gamax-laboratory-solutions,0.0,0.0,0.0,,,,Gamax Laboratory Solutions,11,True,False,,,Gamax Laboratory Solutions
+boltzbit,4.0,2.0,1.0,1.0,1.0,1.0,Boltzbit,11,True,False,,,Boltzbit
+themoonshotfactory,1.0,0.0,0.0,,,,The Moonshot Factory,11,True,False,,,The Moonshot Factory
+analytics-town,0.0,0.0,0.0,,,,Analytics Town,11,True,False,,,Analytics Town
+intelligichain,0.0,0.0,0.0,2.0,,,IntelligiChain,11,True,False,,,IntelligiChain
+cst-global-llc,0.0,0.0,0.0,,,,ClearSource,11,True,False,,,ClearSource
+kapahi-industries-private-limited,0.0,0.0,0.0,,,,Kapahi Industries,10,True,False,,,Kapahi Industries
+www-doublecheckconsulting-com,0.0,0.0,0.0,,,,Double Check Consulting,10,True,False,,,Double Check Consulting
+chi-squarex,4.0,3.0,1.0,,,,Chi SquareX,10,True,False,,,Chi SquareX
+1314,1.0,1.0,0.0,,,,Polixir,10,True,False,,,Polixir
+kmeleontech,2.0,1.0,0.0,,,,Kmeleon,10,True,False,,,Kmeleon
+1415,1.0,0.0,0.0,,,,Royal Caliber,10,True,False,,,Royal Caliber
+hyquest-consulting-solutions-llc,0.0,0.0,0.0,,,,HyQuest Consulting Solutions,9,False,False,,,HyQuest Consulting Solutions
+rbc-group,0.0,0.0,0.0,,,,RBC Group,9,False,False,,,RBC Group
+2049,0.0,0.0,0.0,,,,we-do.ai,9,False,False,,,we-do.ai
+strong-analytics,3.0,1.0,1.0,1.0,2.0,1.0,Strong Analytics,9,False,False,,,Strong Analytics
+muons-technology,0.0,0.0,0.0,,,,Muons Technology,8,False,False,,,Muons Technology
+data-sleek,0.0,0.0,0.0,,,,Data-Sleek,8,False,False,,,Data-Sleek
+courart-inform-tica-ltda,0.0,0.0,0.0,,,,Courart Informática,8,False,False,,,Courart Informática
+thinking-machines-data-science,0.0,0.0,0.0,,,,Thinking Machines,8,False,False,,,Thinking Machines
+ignous,0.0,0.0,0.0,,,,Ignous,8,False,False,,,Ignous
+lukasa-llc,0.0,0.0,0.0,,,,Lukasa,8,False,False,,,Lukasa
+gefatec-sistemas-software-e-consultoria,0.0,0.0,0.0,,,,Gefatec,7,False,False,,,Gefatec
+1903,0.0,0.0,0.0,,,,H&W Consulting,7,False,False,,,H&W Consulting
+1856,0.0,0.0,0.0,,,,數辰創藝科技股份有限公司,7,False,False,,,數辰創藝科技股份有限公司
+digiwisehub,0.0,0.0,0.0,,,,Digiwise,7,False,False,,,Digiwise
+609,0.0,0.0,0.0,,,,NEC Research Institute,7,False,False,,,NEC Research Institute
+eigen-partners,0.0,0.0,0.0,,,,Eigen partners,7,False,False,,,Eigen partners
+qexpert,0.0,0.0,0.0,,,,Qexpert,6,False,False,,,Qexpert
+vertex-laboratories,0.0,0.0,0.0,,,,Vertex Laboratories,6,False,False,,,Vertex Laboratories
+one-logic-gmbh,0.0,0.0,0.0,,,,ONE LOGIC,6,False,False,,,ONE LOGIC
+springbok-ai,0.0,0.0,0.0,,,,Springbok AI,6,False,False,,,Springbok AI
+information-workers-group,0.0,0.0,0.0,,,,Information Workers Group,6,False,False,,,Information Workers Group
+toncent-information-technology-services-shenzhen-co--ltd,0.0,0.0,0.0,,,,Toncent Information Technology Service,6,False,False,,,Toncent Information Technology Service
+new-outcome,0.0,0.0,0.0,,,,New Outcome,5,False,False,,,New Outcome
+accordbgroup,7.0,0.0,0.0,2.0,1.0,,Accord Business Group,5,False,True,,,Accord Business Group
+genia-latinoam%C3%A9rica,0.0,2.0,0.0,,,,GENIA,5,False,False,,,GENIA
+pbq-oilfield-services,0.0,0.0,0.0,,,,PBQ Oilfield Services,5,False,False,,,PBQ Oilfield Services
+arena-technologies,0.0,0.0,0.0,,,,Arena Technologies,5,False,False,,,Arena Technologies
+tmltlabs,0.0,0.0,0.0,2.0,,,Tumult Labs,5,False,False,,,Tumult Labs
+allogic-tecnologia,0.0,0.0,0.0,,,,Allogic Tecnologia,5,False,False,,,Allogic Tecnologia
+azati-corporation,0.0,1.0,0.0,2.0,,,Azati Corporation,4,False,False,,,Azati Corporation
+taristechnologies,0.0,0.0,0.0,,,,Taris Technologies,4,False,False,,,Taris Technologies
+finolity,0.0,0.0,0.0,,,,Finolity Consultancy Services,4,False,False,,,Finolity Consultancy Services
+iinumbers,0.0,1.0,0.0,,,,iiNumbers,4,False,False,,,iiNumbers
+youneed-s.a.s,0.0,0.0,0.0,,,,YouNeeD,4,False,False,,,YouNeeD
+hydromind-group,0.0,1.0,0.0,,,,HydroMind,4,False,False,,,HydroMind
+it-consulting-gp,0.0,0.0,0.0,,,,IT Consulting Group,3,False,False,,,IT Consulting Group
+solid-software-solutions,0.0,0.0,0.0,,,,Solid Software Solutions,3,False,False,,,Solid Software Solutions
+flowplus-helping-you-work-smarter,0.0,0.0,0.0,,,,FlowPlus,3,False,False,,,FlowPlus
+tqcs,0.0,0.0,0.0,,,,The Quantitative Consulting & Solutions,3,False,False,,,The Quantitative Consulting & Solutions
+2142,0.0,0.0,0.0,,,,Downtown Consulting,3,False,False,,,Downtown Consulting
+jdsc,0.0,0.0,0.0,4.0,,,Japan Data Science Consortium,3,False,False,,,Japan Data Science Consortium
+xaigi-technology-inc,6.0,0.0,0.0,2.0,1.0,,Xaigi Technology,3,False,True,,,Xaigi Technology
+aiqrate,0.0,0.0,0.0,,,,AIQRATE,3,False,False,,,AIQRATE
+q-noon,0.0,0.0,0.0,,,,Q-Noon,3,False,False,,,Q-Noon
+-.technology-sarl,0.0,0.0,0.0,,,,Technology,3,False,False,,,Technology
+evergopartners,0.0,0.0,0.0,,,,Evergo,3,False,False,,,Evergo
+sevn3-ai,0.0,0.0,0.0,,,,Sevn3.ai,2,False,False,,,Sevn3.ai
+airesearchcorp,1.0,0.0,0.0,,,,AI Research,2,False,False,,,AI Research
+amplient-labs,1.0,0.0,0.0,,,,Amplient Labs,2,False,False,,,Amplient Labs
+2331,0.0,0.0,0.0,,,,Webpragma,2,False,False,,,Webpragma
+elementai,0.0,0.0,0.0,,,,Element AI,2,False,False,,,Element AI
+1966,0.0,0.0,0.0,,,,EXCEEDDATA,2,False,False,,,EXCEEDDATA
+resileo-labs,0.0,0.0,0.0,,,,Resileo,2,False,False,,,Resileo
+makesai,0.0,0.0,0.0,2.0,1.0,,Makes.ai,2,False,False,,,Makes.ai
+data-cowboys-llc,0.0,0.0,0.0,,,,Data Cowboys,2,False,False,,,Data Cowboys
+2439,0.0,0.0,0.0,,,,Exometrics,2,False,False,,,Exometrics
+kantic-analytics,0.0,1.0,0.0,,,,Kantic Analytics,2,False,False,,,Kantic Analytics
+aiso-lab,1.0,0.0,0.0,,,,aiso-lab,2,False,False,,,aiso-lab
+2393,0.0,0.0,0.0,,,,Pathway Intelligence,2,False,False,,,Pathway Intelligence
+albitech-consulting-oy,0.0,0.0,0.0,,,,Albitech Consulting,2,False,False,,,Albitech Consulting
+linkup-studio,0.0,0.0,0.0,,,,LinkUp Studio,2,False,False,,,LinkUp Studio
+stowe-research-international-inc,0.0,0.0,0.0,,,,Stowe Research International,2,False,False,,,Stowe Research International
+inftech-gmbh,0.0,0.0,0.0,,,,Inftech,2,False,False,,,Inftech
+hubthunder,0.0,0.0,0.0,,,,HubThunder,1,False,False,,,HubThunder
+1396,0.0,0.0,0.0,,,,"Strategic Machine, Inc.",1,False,False,,,"Strategic Machine, Inc."
+aitnco,0.0,0.0,0.0,,,,AITN,1,False,False,,,AITN
+knowm-inc,0.0,0.0,0.0,,,,Knowm,1,False,False,,,Knowm
+genysolutions,0.0,0.0,0.0,,,,Gen Y Solutions,1,False,False,,,Gen Y Solutions
+ted-rpa-data,0.0,0.0,0.0,,,,TED Consulting,1,False,False,,,TED Consulting
+2691,0.0,0.0,0.0,,,,Pttrner,1,False,False,,,Pttrner
+developower-inc,0.0,0.0,0.0,,,,Developower,1,False,False,,,Developower
+2163,0.0,0.0,0.0,,,,StatHack,1,False,False,,,StatHack
+cantabpi,0.0,2.0,0.0,1.0,,,CantabPi,1,False,False,,,CantabPi
+eoda-gmbh,0.0,0.0,0.0,,,,eoda,1,False,False,,,eoda
+tarahai,0.0,0.0,0.0,,1.0,,Tarah AI,1,False,False,,,Tarah AI
+exvy,1.0,0.0,0.0,,,,exvy,1,False,False,,,exvy
+2319,0.0,0.0,0.0,,,,Intrinsic Algorithm,1,False,False,,,Intrinsic Algorithm
+alexander-thamm-gmbh,1.0,0.0,0.0,17.0,7.0,2.0,Alexander Thamm,1,False,True,,,Alexander Thamm
+numericube,0.0,0.0,0.0,,,,NUMERICUBE,1,False,False,,,NUMERICUBE
+lipon-technologies,0.0,0.0,0.0,,,,Lipon Technologies,1,False,False,,,Lipon Technologies
+chapelhilltech,0.0,0.0,0.0,,,,Chapel Hill Tech,1,False,False,,,Chapel Hill Tech
+2470,0.0,0.0,0.0,,,,Rubentis,0,False,False,,,Rubentis
+211,0.0,0.0,0.0,,,,Technologies,0,False,False,,,Technologies
+2334,0.0,0.0,0.0,,,,ROA Intelligence,0,False,False,,,ROA Intelligence
+geeks-data-consulting,0.0,0.0,0.0,,,,Geeks Data Consulting,0,False,False,,,Geeks Data Consulting
+1770,0.0,0.0,0.0,,,,curious.ai,0,False,False,,,curious.ai
+1824,0.0,0.0,0.0,,,,Xihu Xinchen,0,False,False,,,Xihu Xinchen
+bit-addict,0.0,0.0,0.0,1.0,,,BitAddict AB,0,False,False,,,BitAddict AB
+2016,0.0,0.0,0.0,,,,ANewD.ai,0,False,False,,,ANewD.ai
+inavan,3.0,2.0,1.0,2.0,1.0,1.0,Inavan India Technologies,0,False,False,,,Inavan India Technologies
+nivonexus,0.0,0.0,0.0,,,,NivoNexus,0,False,False,,,NivoNexus
+redmaxx,0.0,0.0,0.0,,,,RedMaxx Consultoria,0,False,False,,,RedMaxx Consultoria
+inttaocorp,0.0,0.0,0.0,,,,Inttao,0,False,False,,,Inttao
+next%27s,0.0,0.0,0.0,,,,NeXT'S,0,False,False,,,NeXT'S
+automators,0.0,0.0,0.0,,,,Automators GmbH,0,False,False,,,Automators GmbH
+10801448,0.0,0.0,0.0,,,,Defour Analytics Pvt. Ltd.,0,False,False,,,Defour Analytics Pvt. Ltd.
+argonaut-ai,0.0,0.0,0.0,,,,Argonaut AI,0,False,False,,,Argonaut AI
+machinelearningsolutions,0.0,0.0,0.0,,,,Machine Learning Solutions,0,False,False,,,Machine Learning Solutions
+2675,0.0,0.0,0.0,,,,Boostalgo,0,False,False,,,Boostalgo
+1842,0.0,0.0,0.0,,,,AROUSAL Tech.,0,False,False,,,AROUSAL Tech.
+spectra-analytics,0.0,0.0,0.0,,,,Spectra Analytics,0,False,False,,,Spectra Analytics
+aritaweb-inc,0.0,0.0,0.0,,,,AritaWeb Inc.,0,False,False,,,AritaWeb Inc.
+globe-geosolution-private-limited,0.0,0.0,0.0,,,,Globe Geosolution,0,False,False,,,Globe Geosolution
+innovacio-technology,1.0,1.0,0.0,,,,Innovacio Technologies,0,False,False,,,Innovacio Technologies
+%E5%90%88%E8%82%A5%E6%96%A1%E4%BA%BF%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8,0.0,0.0,0.0,,,,Woyitech.com,0,False,False,,,Woyitech.com
+rk-software-services-llc,0.0,0.0,0.0,,,,RK Software Services,0,False,False,,,RK Software Services
+visual-it-solutions-pvt-ltd,1.0,0.0,0.0,,,,Visual IT Solutions,0,False,False,,,Visual IT Solutions
+biz-conexi%C3%B3n-digital,0.0,0.0,0.0,,,,Biz Digital Connection,0,False,False,,,Biz Digital Connection
+1275,0.0,0.0,0.0,,,,USC,0,False,False,,,USC
+hatchworks,4.0,2.0,0.0,,,,HatchWorks,0,False,False,,,HatchWorks
+%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%B7%E3%83%BC%E3%83%93%E3%83%BC%E3%82%A8%E3%82%B9%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81,0.0,0.0,0.0,,,,Computer Business System Research,0,False,False,,,Computer Business System Research

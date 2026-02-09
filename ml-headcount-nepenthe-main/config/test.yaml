@@ -1,0 +1,86 @@
+# ML Headcount Pipeline Configuration - Test Environment
+# Smaller/faster parameters for testing
+
+# Dawid-Skene dataset filtering parameters
+dawid_skene_filtering:
+  max_items: 100  # Smaller for tests
+  max_companies: 10  # Smaller for tests
+  min_profiles: 2  # Lower threshold for tests
+
+# Dawid-Skene inference parameters (marginalized with validation data)
+dawid_skene_inference:
+  draws: 100
+  tune: 150
+  chains: 2
+  random_seed: 42
+  target_accept: 0.95  # Target acceptance rate for MCMC sampler
+
+# KeyBERT keyword extraction parameters
+keybert_extraction:
+  model_name: "all-MiniLM-L6-v2"  # Smaller model for tests
+  batch_size: 32
+  max_seq_length: 128
+  top_n: 10
+  ngram_max: 3
+
+# KeyBERT clustering parameters
+keybert_clustering:
+  min_cluster_size: 2
+  n_clusters: null  # Dynamic calculation: max(2, min(len(keywords) // 5, 40))
+
+# TF-IDF parameters
+tfidf:
+  ngram_range: [1, 3]
+  max_features: 1000
+  min_df: 1
+  max_df: 0.9
+
+# Discriminative keywords parameters
+discriminative_keywords:
+  min_score: 0.5
+  max_keywords: 50
+
+# Keyword filtering thresholds
+keyword_filtering:
+  strict_threshold: 0.7
+  broad_threshold: 0.4
+
+# Data paths (relative to project root)
+data_paths:
+  data_dir: "raw_data"
+  output_dir: "test_outputs"
+
+# LinkedIn datasets configuration
+linkedin_datasets:
+  enable_85k_profiles: true  # 85k profiles (main set)
+  enable_big_consulting: false  # 49k profiles (big consulting companies)
+  enable_comparator: false  # 115k profiles (comparator set)
+
+# Plotting configuration
+plotting:
+  confidence_interval_width: 0.80  # Width for confidence intervals (0.80 = 10% - 90%)
+
+# Correlated probit bootstrap analysis parameters
+correlated_probit_bootstrap:
+  n_samples: 10  # Smaller for tests
+  n_machines: 1  # Single machine for tests
+  timeout: 300  # 5 minutes timeout for tests
+  prior_alpha: 2.0  # Alpha parameter for Beta prior on prevalence (class prior)
+  prior_beta: 20.0  # Beta parameter for Beta prior on prevalence (class prior)
+
+# Latent covariance diagnostic (required by PipelineConfig)
+latent_covariance_diagnostic:
+  min_employees: 10  # Minimum employees per company to estimate covariance in tests
+
+# Execution configuration
+execution:
+  use_remote: false  # Use local execution for tests
+  disable_cache: true  # Disable caching for tests
+  enable_telemetry: false  # Disable telemetry for tests
+  project_id: null  # Not needed for tests
+  username: null  # Not needed for tests
+  dag_name: "ml_headcount_test"  # Test DAG name
+  telemetry_tags:  # Test tags
+    environment: "test"
+    team: "ML_HEADCOUNT"
+

@@ -1,0 +1,56 @@
+# Build the test Docker image
+build-test:
+    docker build -f Dockerfile.test -t ml-headcount-test .
+
+# Run tests in the Docker container
+test:
+    docker run --rm -ti \
+        -v "$PWD":/workspace \
+        -w /workspace \
+        ml-headcount-test \
+        uv run pytest
+
+# Run the ML Headcount pipeline
+pipeline: build-test
+    docker run --rm -ti \
+        -v "$PWD":/workspace \
+        -w /workspace \
+        ml-headcount-test \
+        uv run python main.py
+
+# Run the ML Headcount pipeline with verbose output
+pipeline-verbose: build-test
+    docker run --rm -ti \
+        -v "$PWD":/workspace \
+        -w /workspace \
+        ml-headcount-test \
+        uv run python -c "import logging; logging.basicConfig(level=logging.DEBUG); from main import main; main()"
+
+# Run a shell in the Docker container
+shell: build-test
+    docker run --rm -ti \
+        -v "$PWD":/workspace \
+        -w /workspace \
+        ml-headcount-test \
+        /bin/bash
+
+# Run any command in the Docker container
+run cmd:
+    docker run --rm -ti \
+        -v "$PWD":/workspace \
+        -w /workspace \
+        ml-headcount-test \
+        {{cmd}}
+
+# Clean up Docker images and containers
+clean:
+    docker system prune -f
+    docker rmi ml-headcount-test 2>/dev/null || true
+
+# Show pipeline outputs
+show-outputs:
+    @echo "=== Pipeline Outputs ==="
+    @ls -la outputs/ 2>/dev/null || echo "No outputs directory found"
+    @echo ""
+    @echo "=== Pipeline Log ==="
+    @tail -20 pipeline.log 2>/dev/null || echo "No pipeline.log found"

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+venv/
+env/
+*.log
+*.csv
+wandb/
+models/
+evals/

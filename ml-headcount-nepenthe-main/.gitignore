@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pyo
+raw_data/
+outputs/
+test_outputs/
+pipeline.log
+pipeline_dag.png

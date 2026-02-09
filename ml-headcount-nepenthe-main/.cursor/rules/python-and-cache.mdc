@@ -1,0 +1,76 @@
+---
+alwaysApply: true
+---
+
+# Python Runtime and Cache Management
+
+## Python Runtime
+Always use `uv run python` instead of system Python for all Python commands and script execution.
+
+Examples:
+- `uv run python script.py`
+- `uv run pytest`
+- `uv run main.py`
+
+## Hamilton Cache Management
+**NEVER** clear the Hamilton cache completely. Instead, use the `--no-cache=<function_name>` argument to skip cache for specific functions.
+
+❌ DON'T: `uv run main.py --clear-cache` OR delete the cache directory
+✅ DO: `uv run main.py --no-cache=function_name`
+
+## Main Pipeline Usage
+
+The main entry point is [main.py](mdc:main.py). Here is the complete help output:
+
+```
+usage: main.py [-h] [--config CONFIG] [--use-remote] [--local-only] [--disable-cache]
+               [--no-cache [NO_CACHE]] [--enable-telemetry] [--disable-telemetry]
+               [--project-id PROJECT_ID] [--username USERNAME] [--dag-name DAG_NAME]
+               [--telemetry-tags [TELEMETRY_TAGS ...]] [--visualize [VISUALIZE]] [--save-dot]
+               [--subgraphs {linkedin,cv_analysis,clustering,affiliation,organization,dawid_skene,dawid_skene_joint} [{linkedin,cv_analysis,clustering,affiliation,organization,dawid_skene,dawid_skene_joint} ...]]
+               [--list-subgraphs] [--clear-cache] [--cache-info] [--list-cached-functions]
+
+ML Headcount Pipeline
+
+options:
+  -h, --help            show this help message and exit
+  --config CONFIG       Path to YAML config file (default: config/default.yaml)
+  --use-remote          Override config: Use Modal Labs for expensive operations
+  --local-only          Override config: Use local processing only (disable Modal Labs)
+  --disable-cache       Override config: Disable Hamilton caching
+  --no-cache [NO_CACHE]
+                        Override config: Skip cache for specific functions or all
+  --enable-telemetry    Override config: Enable Hamilton UI telemetry tracking
+  --disable-telemetry   Override config: Disable Hamilton UI telemetry tracking
+  --project-id PROJECT_ID
+                        Override config: Hamilton project ID
+  --username USERNAME   Override config: Hamilton username/email
+  --dag-name DAG_NAME   Override config: DAG name for Hamilton telemetry
+  --telemetry-tags [TELEMETRY_TAGS ...]
+                        Override config: Additional tags for telemetry (format: key=value)
+  --visualize [VISUALIZE]
+                        Visualize pipeline DAG (optionally specify output file path)
+  --save-dot            Also save the raw Graphviz DOT file alongside the rendered image
+  --subgraphs {linkedin,cv_analysis,clustering,affiliation,organization,dawid_skene,dawid_skene_joint} [{linkedin,cv_analysis,clustering,affiliation,organization,dawid_skene,dawid_skene_joint} ...]
+                        Select one or more subgraphs to run: linkedin, cv_analysis,
+                        clustering, affiliation, organization, dawid_skene, dawid_skene_joint
+  --list-subgraphs      List available subgraphs and exit
+  --clear-cache         Clear all caches before running
+  --cache-info          Show cache information and exit
+  --list-cached-functions
+                        List all cached functions and exit
+```
+
+## Available Subgraphs
+- linkedin
+- cv_analysis
+- clustering
+- affiliation
+- organization
+- dawid_skene
+
+## Pipeline Output
+**NEVER** filter pipeline output with commands like `head`, `tail`, `grep`, or pipe to other filtering utilities.
+
+❌ DON'T: `uv run main.py | head`, `uv run main.py | tail`, `uv run main.py | grep`
+✅ DO: `uv run main.py` (let the full output display)
